@@ -39,7 +39,7 @@ The notebook contains the following sections:
 This project demonstrates the use of Pycaret 3.0 for building and evaluating machine learning models for Regression, Classification, and Clustering analysis. The code and techniques used in this project can be adapted to other datasets and machine learning problems.
 
 ## **License** :bulb:
-This is licensed under__MIT__ License
+This is licensed under _MIT_ License
 
 
 © Jaz 2023 :smile:
