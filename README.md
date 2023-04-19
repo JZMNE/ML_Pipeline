@@ -28,7 +28,7 @@ The dataset can be found in the [UCI Machine Learning Repository](https://doi.or
 ## **Usage** :bulb:
 To run the project, download the `notebook` files in Jupyter Notebook and execute the code cells.
 
-The notebook contains the following sections:
+Each notebook contains the following sections:
 
 - Data Preparation: This section loads the dataset and performs data cleaning, preprocessing, and feature engineering.
 - Classification Analysis: This section builds and evaluates machine learning models for classification analysis using Pycaret 3.0 and SciKit Learn.
