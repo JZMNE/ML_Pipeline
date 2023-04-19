@@ -1,4 +1,4 @@
-# **ML_Pipeline_Classification**
+# **ML_Pipeline_Classification_Clustering**
 
 This project demonstrates the machine learning pipeline for Classification and Clustering using Pycaret 3.0 and Scikit Learn on Jupyter Notebook. The data used in this project is the "German Credit Data" dataset.
 
