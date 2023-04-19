@@ -1,6 +1,6 @@
-# **ML_Pycaret_Pipeline**
+# **ML_Pycaret_Pipeline_Classification**
 
-This project demonstrates the machine learning pipeline for Regression, Classification, and Clustering using Pycaret 3.0 on Jupyter Notebook. The data used in this project is the "Tips" dataset.
+This project demonstrates the machine learning pipeline for Regression, Classification and Clustering using Pycaret 3.0 on Jupyter Notebook. The data used in this project is the "Tips" dataset.
 
 ## **Overview** :bulb:
 This project showcases the use of Pycaret 3.0, a low-code machine learning library, to perform Regression, Classification, and Clustering analysis on the `Tips`, `Penguins` and `CreditCard` dataset. The project includes a Jupyter Notebook containing the code for building and evaluating the machine learning models.
