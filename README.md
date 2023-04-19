@@ -1,42 +1,41 @@
-# **ML_Pycaret_Pipeline_Classification**
+# **ML_Pipeline_Classification**
 
-This project demonstrates the machine learning pipeline for Regression, Classification and Clustering using Pycaret 3.0 on Jupyter Notebook. The data used in this project is the "Tips" dataset.
+This project demonstrates the machine learning pipeline for Classification and Clustering using Pycaret 3.0 and Scikit Learn on Jupyter Notebook. The data used in this project is the "German Credit Data" dataset.
 
 ## **Overview** :bulb:
-This project showcases the use of Pycaret 3.0, a low-code machine learning library, to perform Regression, Classification, and Clustering analysis on the `Tips`, `Penguins` and `CreditCard` dataset. The project includes a Jupyter Notebook containing the code for building and evaluating the machine learning models.
+This project showcases the use of Scikit learn as well as Pycaret 3.0, a low-code machine learning library, to perform Classification, and Clustering analysis on the  `German Credit Data` dataset. The project includes a Jupyter Notebook containing the code for building and evaluating the machine learning models.
 
 ## **Requirements** :bulb:
 To run this project, you need the following:
 
 - Jupyter Notebook
+- Scikit Learn
 - Pycaret 3.0
 - Python 3.x
+
 
 ## **Installation** :bulb:
 To install Pycaret 3.0, run the following command:
 
 ```bash python
-!pip install pycaret
+!pip install pycaret[full]
 ```
 ## **Dataset** :bulb:
-- The `Tips` dataset contains information about the tips given by customers at a restaurant. It includes features such as the total bill, the gender of the customer, whether they smoke or not, etc.
-- The `Penguins` dataset  contains information about the species of penguins based on their bill length and depth, flipper length, body mass, and sex.
-- The `CreditCard` dataset contains information about Credit Card dataset to cluster the users based on their balance, income, credit limit, and the number of credit cards they own.
+- The `German Credit Card` dataset contains information about Credit Card dataset to cluster the users based on duration, credit card history, purpose, credit amount, Guarantors, property etc.
 
-The dataset can be found in the `Data` folder.
+The dataset can be found in the  [UCI Repository](https://archive-beta.ics.uci.edu/dataset/144/statlog+german+credit+data). Cite: Hofmann,Hans. (1994). Statlog (German Credit Data). UCI Machine Learning Repository. https://doi.org/10.24432/C5NC77.
 
 ## **Usage** :bulb:
-To run the project, open the `ML_Pycaret_Pipeline.ipynb` file in Jupyter Notebook and execute the code cells.
+To run the project, download the `notebook` files in Jupyter Notebook and execute the code cells.
 
 The notebook contains the following sections:
 
 - Data Preparation: This section loads the dataset and performs data cleaning, preprocessing, and feature engineering.
-- Regression Analysis: This section builds and evaluates machine learning models for regression analysis using Pycaret 3.0.
-- Classification Analysis: This section builds and evaluates machine learning models for classification analysis using Pycaret 3.0.
-- Clustering Analysis: This section builds and evaluates machine learning models for clustering analysis using Pycaret 3.0.
+- Classification Analysis: This section builds and evaluates machine learning models for classification analysis using Pycaret 3.0 and SciKit Learn.
+- Clustering Analysis: This section builds and evaluates machine learning models for clustering analysis using Pycaret 3.0 and SciKit Learn.
 
 ## **Conclusion** :bulb:
-This project demonstrates the use of Pycaret 3.0 for building and evaluating machine learning models for Regression, Classification, and Clustering analysis. The code and techniques used in this project can be adapted to other datasets and machine learning problems.
+This project demonstrates the use of Pycaret 3.0 and SciKit Learn.for building and evaluating machine learning models for Classification, and Clustering analysis. The code and techniques used in this project can be adapted to other datasets and machine learning problems.
 
 ## **License** :bulb:
 This is licensed under _MIT_ License
