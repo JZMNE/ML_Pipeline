@@ -42,6 +42,6 @@ This is licensed under _MIT_ License
 
 
 © Jaz 2023 :smile:
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=JZMN&label=Profile%20Views&color=12&icon=4&pretty=true" />
-</a>
+<br>
+<br>
+[![](https://visitcount.itsvg.in/api?id=JZMN&label=Profile%20Views&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
