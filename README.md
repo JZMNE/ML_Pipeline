@@ -42,3 +42,4 @@ This is licensed under _MIT_ License
 
 
 © Jaz 2023 :smile:
+[![](https://visitcount.itsvg.in/api?id=JZMN&label=Project%20Views&color=3&icon=3&pretty=true)](https://visitcount.itsvg.in)
