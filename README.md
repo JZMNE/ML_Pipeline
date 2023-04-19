@@ -23,7 +23,7 @@ To install Pycaret 3.0, run the following command:
 ## **Dataset** :bulb:
 - The `German Credit Card` dataset contains information about Credit Card dataset to cluster the users based on duration, credit card history, purpose, credit amount, Guarantors, property etc.
 
-The dataset can be found in the  [UCI Repository](https://archive-beta.ics.uci.edu/dataset/144/statlog+german+credit+data). Cite: Hofmann,Hans. (1994). Statlog (German Credit Data). UCI Machine Learning Repository. https://doi.org/10.24432/C5NC77.
+The dataset can be found in the [UCI Machine Learning Repository](https://doi.org/10.24432/C5NC77). Cite: Hofmann,Hans. (1994). Statlog (German Credit Data). 
 
 ## **Usage** :bulb:
 To run the project, download the `notebook` files in Jupyter Notebook and execute the code cells.
