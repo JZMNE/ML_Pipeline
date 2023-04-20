@@ -32,8 +32,7 @@ Each notebook contains the following sections:
 
 - Data Preparation: This section loads the dataset and performs data cleaning. Click [here](https://github.com/JZMNE/ML_Pipelines/blob/main/1.%20Data%20Preparation.ipynb) to view
 - PC_Classification: This section builds and evaluates machine learning models for classification analysis using Pycaret 3.0. Click [here](https://github.com/JZMNE/ML_Pipelines/blob/main/2.%20PC_%20Classification.ipynb) to view
-- Scikit Learn Classification: This section builds and evaluates machine learning models for classification analysis using SciKit Learn. Click [here](https://github.com/JZMNE/ML_Pipelines/blob/main/1.%20Data%20Preparation.ipynb) to view
--
+- Scikit Learn Classification: This section builds and evaluates machine learning models for classification analysis using SciKit Learn. Click [here](https://github.com/JZMNE/ML_Pipelines/blob/main/3.%20SKLearn_Classification.ipynb) to view
 
 ## **Conclusion** :bulb:
 This project demonstrates the use of Pycaret 3.0 and SciKit Learn.for building and evaluating machine learning models for Classification analysis. The code and techniques used in this project can be adapted to other datasets and machine learning problems.
