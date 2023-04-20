@@ -1,0 +1,1001 @@
+checking_acc,duration_mnth,credit_hist,purpose,credit_amt,savings_acc,emp_status,installment_rate,pstatus_sex,guarantor,Residence_LOS,property,age,installment_plan,housing,existing_credit,job,dependents,telephone,foreign_worker,credit
+Less than 0 DM,6,Critical account,radio/television,1169,none,Greater than 7 years,4,male_single,none,4,real estate,67,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,48,Existing credits paid back duly,radio/television,5951,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,real estate,22,none,own,1,skilled employee,1,none,yes,good
+none,12,Critical account,education,2096,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,3,real estate,49,none,own,1,unskilled - resident,2,none,yes,bad
+Less than 0 DM,42,Existing credits paid back duly,furniture/equipment,7882,Less than 100 DM,Btw 4 to 7 years,2,male_single,guarantor,4,BSSA or life insurance,45,none,free,1,skilled employee,2,none,yes,bad
+Less than 0 DM,24,Delays in paying off,new car,4870,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,4,none,53,none,free,2,skilled employee,2,none,yes,good
+none,36,Existing credits paid back duly,education,9055,none,Btw 1 to 4 years,2,male_single,none,4,none,35,none,free,1,unskilled - resident,2,registered,yes,bad
+none,24,Existing credits paid back duly,furniture/equipment,2835,Btw 500 to 999 DM,Greater than 7 years,3,male_single,none,4,BSSA or life insurance,53,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,used car,6948,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,35,none,rent,1,self-employed/management employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,radio/television,3059,Equal or Greater than 1000 DM,Btw 4 to 7 years,2,male_divorced/separated,none,4,real estate,61,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,30,Critical account,new car,5234,Less than 100 DM,unemployed,4,male_married/widowed,none,2,car or other,28,none,own,2,self-employed/management employee,1,none,yes,good
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,1295,Less than 100 DM,Less than a year,3,female_divorced/separated/married,none,1,car or other,25,none,rent,1,skilled employee,1,none,yes,good
+Less than 0 DM,48,Existing credits paid back duly,business,4308,Less than 100 DM,Less than a year,3,female_divorced/separated/married,none,4,BSSA or life insurance,24,none,rent,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,1567,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,1,car or other,22,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,24,Critical account,new car,1199,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,60,none,own,2,unskilled - resident,1,none,yes,good
+Less than 0 DM,15,Existing credits paid back duly,new car,1403,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,4,car or other,28,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,radio/television,1282,Btw 100 to 499 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,car or other,32,none,own,1,unskilled - resident,1,none,yes,good
+none,24,Critical account,radio/television,2424,none,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,53,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,30,No credits taken,business,8072,none,Less than a year,2,male_single,none,3,car or other,25,bank,own,3,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,used car,12579,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,2,none,44,none,free,1,self-employed/management employee,1,registered,yes,good
+none,24,Existing credits paid back duly,radio/television,3430,Btw 500 to 999 DM,Greater than 7 years,3,male_single,none,2,car or other,31,none,own,1,skilled employee,2,registered,yes,bad
+none,9,Critical account,new car,2134,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,car or other,48,none,own,3,skilled employee,1,registered,yes,bad
+Less than 0 DM,6,Existing credits paid back duly,radio/television,2647,Btw 500 to 999 DM,Btw 1 to 4 years,2,male_single,none,3,real estate,44,none,rent,1,skilled employee,2,none,yes,bad
+Less than 0 DM,10,Critical account,new car,2241,Less than 100 DM,Less than a year,1,male_single,none,3,real estate,48,none,rent,2,unskilled - resident,2,none,no,bad
+Btw 0 to 199 DM,12,Critical account,used car,1804,Btw 100 to 499 DM,Less than a year,3,male_single,none,4,BSSA or life insurance,44,none,own,1,skilled employee,1,none,yes,bad
+none,10,Critical account,furniture/equipment,2069,none,Btw 1 to 4 years,2,male_married/widowed,none,1,car or other,26,none,own,2,skilled employee,1,none,no,bad
+Less than 0 DM,6,Existing credits paid back duly,furniture/equipment,1374,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,2,real estate,36,bank,own,1,unskilled - resident,1,registered,yes,bad
+none,6,No credits taken,radio/television,426,Less than 100 DM,Greater than 7 years,4,male_married/widowed,none,4,car or other,39,none,own,1,unskilled - resident,1,none,yes,bad
+Equal or Greater than 200 DM,12,All credits taken paid back duly,radio/television,409,Equal or Greater than 1000 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,3,real estate,42,none,rent,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,7,Existing credits paid back duly,radio/television,2415,Less than 100 DM,Btw 1 to 4 years,3,male_single,guarantor,2,real estate,34,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,60,Delays in paying off,business,6836,Less than 100 DM,Greater than 7 years,3,male_single,none,4,none,63,none,own,2,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,18,Existing credits paid back duly,business,1913,Equal or Greater than 1000 DM,Less than a year,3,male_married/widowed,none,3,real estate,36,bank,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,4020,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,27,stores,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,new car,5866,Btw 100 to 499 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,30,none,own,2,skilled employee,1,registered,yes,bad
+none,12,Critical account,business,1264,none,Greater than 7 years,4,male_single,none,4,none,57,none,rent,1,unskilled - resident,1,none,yes,bad
+Equal or Greater than 200 DM,12,Existing credits paid back duly,furniture/equipment,1474,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,BSSA or life insurance,33,bank,own,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,45,Critical account,radio/television,4746,Less than 100 DM,Less than a year,4,male_single,none,2,BSSA or life insurance,25,none,own,2,unskilled - resident,1,none,yes,good
+none,48,Critical account,education,6110,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,3,none,31,bank,free,1,skilled employee,1,registered,yes,bad
+Equal or Greater than 200 DM,18,Existing credits paid back duly,radio/television,2100,Less than 100 DM,Btw 1 to 4 years,4,male_single,co-applicant,2,real estate,37,stores,own,1,skilled employee,1,none,yes,good
+Equal or Greater than 200 DM,10,Existing credits paid back duly,domestic appliances,1225,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,37,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,radio/television,458,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,3,real estate,24,none,own,1,skilled employee,1,none,yes,bad
+none,30,Existing credits paid back duly,radio/television,2333,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,2,car or other,30,bank,own,1,self-employed/management employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,1158,Btw 500 to 999 DM,Btw 1 to 4 years,3,male_divorced/separated,none,1,car or other,26,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Delays in paying off,repairs,6204,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,4,real estate,44,none,own,1,unskilled - resident,2,registered,yes,bad
+Less than 0 DM,30,Critical account,used car,6187,Btw 100 to 499 DM,Btw 4 to 7 years,1,male_married/widowed,none,4,car or other,24,none,rent,2,skilled employee,1,none,yes,bad
+Less than 0 DM,48,Critical account,used car,6143,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,none,58,stores,free,2,unskilled - resident,1,none,yes,good
+none,11,Critical account,new car,1393,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,car or other,35,none,own,2,self-employed/management employee,1,none,yes,bad
+none,36,Existing credits paid back duly,radio/television,2299,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,4,car or other,39,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,6,Existing credits paid back duly,used car,1352,Btw 500 to 999 DM,unemployed,1,female_divorced/separated/married,none,2,BSSA or life insurance,23,none,rent,1,unemployed/unskilled - non-resident,1,registered,yes,bad
+none,11,Critical account,new car,7228,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,4,BSSA or life insurance,39,none,own,2,unskilled - resident,1,none,yes,bad
+none,12,Existing credits paid back duly,radio/television,2073,Btw 100 to 499 DM,Btw 1 to 4 years,4,female_divorced/separated/married,co-applicant,2,real estate,28,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,24,Delays in paying off,furniture/equipment,2333,none,Less than a year,4,male_single,none,2,BSSA or life insurance,29,bank,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,27,Delays in paying off,used car,5965,Less than 100 DM,Greater than 7 years,1,male_single,none,2,car or other,30,none,own,2,self-employed/management employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,radio/television,1262,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,car or other,25,none,own,1,skilled employee,1,none,yes,bad
+none,18,Existing credits paid back duly,used car,3378,none,Btw 1 to 4 years,2,male_single,none,1,BSSA or life insurance,31,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,36,Delays in paying off,new car,2225,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,57,bank,free,2,skilled employee,1,registered,yes,good
+none,6,All credits taken paid back duly,new car,783,none,Btw 1 to 4 years,1,male_single,guarantor,2,real estate,26,stores,own,1,unskilled - resident,2,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,6468,none,unemployed,2,male_single,none,1,none,52,none,own,1,self-employed/management employee,1,registered,yes,good
+none,36,Critical account,radio/television,9566,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,car or other,31,stores,own,2,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,18,Existing credits paid back duly,new car,1961,Less than 100 DM,Greater than 7 years,3,female_divorced/separated/married,none,2,car or other,23,none,own,1,self-employed/management employee,1,none,yes,bad
+Less than 0 DM,36,Critical account,furniture/equipment,6229,Less than 100 DM,Less than a year,4,female_divorced/separated/married,co-applicant,4,none,23,none,rent,2,unskilled - resident,1,registered,yes,good
+Btw 0 to 199 DM,9,Existing credits paid back duly,business,1391,Less than 100 DM,Btw 1 to 4 years,2,male_married/widowed,none,1,real estate,27,bank,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,15,Critical account,radio/television,1537,none,Greater than 7 years,4,male_single,guarantor,4,real estate,50,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,36,No credits taken,business,1953,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,61,none,free,1,self-employed/management employee,1,registered,yes,good
+Btw 0 to 199 DM,48,No credits taken,business,14421,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,25,none,own,1,skilled employee,1,registered,yes,good
+none,24,Existing credits paid back duly,radio/television,3181,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,BSSA or life insurance,26,none,own,1,skilled employee,1,registered,yes,bad
+none,27,Existing credits paid back duly,repairs,5190,none,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,48,none,own,4,skilled employee,2,registered,yes,bad
+none,12,Existing credits paid back duly,radio/television,2171,Less than 100 DM,Less than a year,2,female_divorced/separated/married,none,2,car or other,29,bank,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,1007,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,male_married/widowed,none,1,real estate,22,none,own,1,skilled employee,1,none,yes,bad
+none,36,Existing credits paid back duly,education,1819,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,none,37,stores,free,1,skilled employee,1,registered,yes,good
+none,36,Existing credits paid back duly,radio/television,2394,none,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,car or other,25,none,own,1,skilled employee,1,none,yes,bad
+none,36,Existing credits paid back duly,used car,8133,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,2,BSSA or life insurance,30,bank,own,1,skilled employee,1,none,yes,bad
+none,7,Critical account,radio/television,730,none,Greater than 7 years,4,male_single,none,2,BSSA or life insurance,46,none,rent,2,unskilled - resident,1,registered,yes,bad
+Less than 0 DM,8,Critical account,others,1164,Less than 100 DM,Greater than 7 years,3,male_single,none,4,none,51,bank,free,2,self-employed/management employee,2,registered,yes,bad
+Btw 0 to 199 DM,42,Critical account,business,5954,Less than 100 DM,Btw 4 to 7 years,2,female_divorced/separated/married,none,1,real estate,41,bank,own,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,education,1977,none,Greater than 7 years,4,male_single,none,4,none,40,none,own,1,self-employed/management employee,1,registered,yes,good
+Less than 0 DM,12,Critical account,used car,1526,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,66,none,free,2,self-employed/management employee,1,none,yes,bad
+Less than 0 DM,42,Existing credits paid back duly,radio/television,3965,Less than 100 DM,Less than a year,4,male_single,none,3,car or other,34,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,11,Delays in paying off,radio/television,4771,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,4,BSSA or life insurance,51,none,own,1,skilled employee,1,none,yes,bad
+none,54,No credits taken,used car,9436,none,Btw 1 to 4 years,2,male_single,none,2,BSSA or life insurance,39,none,own,1,unskilled - resident,2,none,yes,bad
+Btw 0 to 199 DM,30,Existing credits paid back duly,furniture/equipment,3832,Less than 100 DM,Less than a year,2,male_married/widowed,none,1,BSSA or life insurance,22,none,own,1,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,radio/television,5943,none,Less than a year,1,female_divorced/separated/married,none,1,car or other,44,none,own,2,skilled employee,1,registered,yes,good
+none,15,Existing credits paid back duly,radio/television,1213,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,3,BSSA or life insurance,47,stores,own,1,skilled employee,1,registered,yes,bad
+none,18,Existing credits paid back duly,business,1568,Btw 100 to 499 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,4,BSSA or life insurance,24,none,rent,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,others,1755,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,guarantor,4,real estate,58,none,own,1,unskilled - resident,1,registered,yes,bad
+Less than 0 DM,10,Existing credits paid back duly,radio/television,2315,Less than 100 DM,Greater than 7 years,3,male_single,none,4,real estate,52,none,own,1,unskilled - resident,1,none,yes,bad
+none,12,Critical account,business,1412,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,guarantor,2,real estate,29,none,own,2,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Critical account,furniture/equipment,1295,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,BSSA or life insurance,27,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,education,12612,Btw 100 to 499 DM,Btw 1 to 4 years,1,male_single,none,4,none,47,none,free,1,skilled employee,2,registered,yes,good
+Less than 0 DM,18,Existing credits paid back duly,new car,2249,Btw 100 to 499 DM,Btw 4 to 7 years,4,male_single,none,3,car or other,30,none,own,1,self-employed/management employee,2,registered,yes,bad
+Less than 0 DM,12,No credits taken,repairs,1108,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,3,real estate,28,none,own,2,skilled employee,1,none,yes,good
+none,12,Critical account,radio/television,618,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,56,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Critical account,used car,1409,Less than 100 DM,Greater than 7 years,4,male_single,none,3,real estate,54,none,own,1,skilled employee,1,none,yes,bad
+none,12,Critical account,radio/television,797,none,Greater than 7 years,4,female_divorced/separated/married,none,3,BSSA or life insurance,33,bank,own,1,unskilled - resident,2,none,yes,good
+Equal or Greater than 200 DM,24,Critical account,furniture/equipment,3617,none,Greater than 7 years,4,male_single,co-applicant,4,none,20,none,rent,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,1318,Equal or Greater than 1000 DM,Greater than 7 years,4,male_single,none,4,real estate,54,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,54,No credits taken,business,15945,Less than 100 DM,Less than a year,3,male_single,none,4,none,58,none,rent,1,skilled employee,1,registered,yes,good
+none,12,Critical account,education,2012,none,Btw 4 to 7 years,4,female_divorced/separated/married,none,2,car or other,61,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,business,2622,Btw 100 to 499 DM,Btw 1 to 4 years,4,male_single,none,4,car or other,34,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,36,Critical account,radio/television,2337,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,36,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,20,Delays in paying off,used car,7057,none,Btw 4 to 7 years,3,male_single,none,4,BSSA or life insurance,36,bank,rent,2,self-employed/management employee,2,registered,yes,bad
+none,24,Existing credits paid back duly,new car,1469,Btw 100 to 499 DM,Greater than 7 years,4,male_married/widowed,none,4,real estate,41,none,rent,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,radio/television,2323,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,4,car or other,24,none,rent,1,skilled employee,1,none,yes,bad
+none,6,Delays in paying off,radio/television,932,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,2,real estate,24,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,9,Critical account,furniture/equipment,1919,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,3,car or other,35,none,rent,1,skilled employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,used car,2445,none,Less than a year,2,male_married/widowed,none,4,car or other,26,none,rent,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,24,Critical account,others,11938,Less than 100 DM,Btw 1 to 4 years,2,male_single,co-applicant,3,car or other,39,none,own,2,self-employed/management employee,2,registered,yes,good
+none,18,All credits taken paid back duly,new car,6458,Less than 100 DM,Greater than 7 years,2,male_single,none,4,none,39,bank,own,2,self-employed/management employee,2,registered,yes,good
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,6078,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,2,car or other,32,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,7721,none,Less than a year,1,female_divorced/separated/married,none,2,BSSA or life insurance,30,none,own,1,skilled employee,1,registered,no,bad
+Btw 0 to 199 DM,14,Existing credits paid back duly,business,1410,Btw 500 to 999 DM,Greater than 7 years,1,male_married/widowed,none,2,real estate,35,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,6,Delays in paying off,business,1449,Btw 100 to 499 DM,Greater than 7 years,1,male_divorced/separated,none,2,car or other,31,bank,own,2,skilled employee,2,none,yes,bad
+Equal or Greater than 200 DM,15,Existing credits paid back duly,education,392,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,BSSA or life insurance,23,none,rent,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,new car,6260,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,3,real estate,28,none,rent,1,unskilled - resident,1,none,yes,bad
+none,36,Critical account,new car,7855,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,real estate,25,stores,own,2,skilled employee,1,registered,yes,good
+Less than 0 DM,12,Existing credits paid back duly,radio/television,1680,Btw 500 to 999 DM,Greater than 7 years,3,male_married/widowed,none,1,real estate,35,none,own,1,skilled employee,1,none,yes,bad
+none,48,Critical account,radio/television,3578,none,Greater than 7 years,4,male_single,none,1,real estate,47,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,42,Existing credits paid back duly,radio/television,7174,none,Btw 4 to 7 years,4,female_divorced/separated/married,none,3,car or other,30,none,own,1,self-employed/management employee,1,registered,yes,good
+Less than 0 DM,10,Critical account,furniture/equipment,2132,none,Less than a year,2,female_divorced/separated/married,co-applicant,3,real estate,27,none,rent,2,skilled employee,1,none,no,bad
+Less than 0 DM,33,Critical account,furniture/equipment,4281,Btw 500 to 999 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,4,car or other,23,none,own,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,12,Critical account,new car,2366,Btw 500 to 999 DM,Btw 4 to 7 years,3,male_divorced/separated,none,3,car or other,36,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,21,Existing credits paid back duly,radio/television,1835,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,2,real estate,25,none,own,2,skilled employee,1,registered,yes,good
+none,24,Critical account,used car,3868,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,2,car or other,41,none,rent,2,self-employed/management employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,furniture/equipment,1768,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,real estate,24,none,rent,1,unskilled - resident,1,none,yes,bad
+Equal or Greater than 200 DM,10,Critical account,new car,781,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,63,none,free,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,furniture/equipment,1924,none,Less than a year,4,female_divorced/separated/married,none,3,real estate,27,none,rent,1,skilled employee,1,none,yes,good
+Less than 0 DM,12,Critical account,new car,2121,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,BSSA or life insurance,30,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,radio/television,701,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,2,real estate,40,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,repairs,639,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,30,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,12,Critical account,used car,1860,Less than 100 DM,unemployed,4,male_single,none,2,car or other,34,none,own,2,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,12,Critical account,new car,3499,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,co-applicant,2,real estate,29,none,own,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,48,Existing credits paid back duly,new car,8487,none,Btw 4 to 7 years,1,female_divorced/separated/married,none,2,car or other,24,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,36,Delays in paying off,education,6887,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,3,BSSA or life insurance,29,stores,own,1,skilled employee,1,registered,yes,good
+none,15,Existing credits paid back duly,furniture/equipment,2708,Less than 100 DM,Less than a year,2,male_single,none,3,BSSA or life insurance,27,bank,own,2,unskilled - resident,1,none,yes,bad
+none,18,Existing credits paid back duly,furniture/equipment,1984,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,none,47,bank,free,2,skilled employee,1,none,yes,bad
+none,60,Existing credits paid back duly,radio/television,10144,Btw 100 to 499 DM,Btw 4 to 7 years,2,female_divorced/separated/married,none,4,real estate,21,none,own,1,skilled employee,1,registered,yes,bad
+none,12,Critical account,radio/television,1240,none,Greater than 7 years,4,female_divorced/separated/married,none,2,real estate,38,none,own,2,skilled employee,1,registered,yes,bad
+none,27,Delays in paying off,used car,8613,Equal or Greater than 1000 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,27,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,766,Btw 500 to 999 DM,Btw 1 to 4 years,4,male_single,none,3,real estate,66,none,own,1,unskilled - resident,1,none,yes,good
+Btw 0 to 199 DM,15,Critical account,radio/television,2728,none,Btw 4 to 7 years,4,male_single,guarantor,2,real estate,35,bank,own,3,skilled employee,1,registered,yes,bad
+Equal or Greater than 200 DM,12,Existing credits paid back duly,radio/television,1881,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,car or other,44,none,rent,1,unskilled - resident,1,registered,yes,bad
+Equal or Greater than 200 DM,6,Existing credits paid back duly,new car,709,Equal or Greater than 1000 DM,Less than a year,2,male_married/widowed,none,2,real estate,27,none,own,1,unemployed/unskilled - non-resident,1,none,no,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,radio/television,4795,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,none,30,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,27,Existing credits paid back duly,radio/television,3416,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,car or other,27,none,own,1,self-employed/management employee,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,furniture/equipment,2462,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,22,none,own,1,skilled employee,1,none,yes,good
+none,21,Critical account,furniture/equipment,2288,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,BSSA or life insurance,23,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,48,All credits taken paid back duly,business,3566,Btw 100 to 499 DM,Btw 4 to 7 years,4,male_single,none,2,car or other,30,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,6,Critical account,new car,860,Less than 100 DM,Greater than 7 years,1,female_divorced/separated/married,none,4,none,39,none,own,2,skilled employee,1,registered,yes,bad
+none,12,Critical account,new car,682,Btw 100 to 499 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,3,car or other,51,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,36,Critical account,furniture/equipment,5371,Less than 100 DM,Btw 1 to 4 years,3,male_single,guarantor,2,BSSA or life insurance,28,none,own,2,skilled employee,1,none,yes,bad
+none,18,Critical account,radio/television,1582,Equal or Greater than 1000 DM,Greater than 7 years,4,male_single,none,4,car or other,46,none,own,2,skilled employee,1,none,yes,bad
+none,6,Existing credits paid back duly,radio/television,1346,Btw 100 to 499 DM,Greater than 7 years,2,male_single,none,4,none,42,bank,free,1,skilled employee,2,registered,yes,bad
+none,10,Existing credits paid back duly,radio/television,1924,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,4,BSSA or life insurance,38,none,own,1,skilled employee,1,registered,no,bad
+Equal or Greater than 200 DM,36,Existing credits paid back duly,radio/television,5848,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,1,car or other,24,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,24,Critical account,used car,7758,Equal or Greater than 1000 DM,Greater than 7 years,2,female_divorced/separated/married,none,4,none,29,none,rent,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,24,Delays in paying off,business,6967,Btw 100 to 499 DM,Btw 4 to 7 years,4,male_single,none,4,car or other,36,none,rent,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,1282,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,4,car or other,20,none,rent,1,skilled employee,1,none,yes,good
+Less than 0 DM,9,Critical account,repairs,1288,Btw 100 to 499 DM,Greater than 7 years,3,male_single,guarantor,4,real estate,48,none,own,2,skilled employee,2,none,no,bad
+Less than 0 DM,12,All credits taken paid back duly,retraining,339,Less than 100 DM,Greater than 7 years,4,male_married/widowed,none,1,car or other,45,bank,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,new car,3512,Btw 100 to 499 DM,Btw 4 to 7 years,2,male_single,none,3,car or other,38,bank,own,2,skilled employee,1,registered,yes,bad
+none,6,Critical account,radio/television,1898,none,Btw 1 to 4 years,1,male_single,none,2,real estate,34,none,own,2,unskilled - resident,2,none,yes,bad
+none,24,Critical account,radio/television,2872,Btw 100 to 499 DM,Greater than 7 years,3,male_single,none,4,real estate,36,none,own,1,skilled employee,2,registered,yes,bad
+none,18,Critical account,new car,1055,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,BSSA or life insurance,30,none,own,2,skilled employee,1,none,yes,bad
+none,15,Existing credits paid back duly,domestic appliances,1262,Btw 500 to 999 DM,Btw 4 to 7 years,4,male_single,none,3,BSSA or life insurance,36,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,10,Existing credits paid back duly,new car,7308,Less than 100 DM,unemployed,2,male_single,none,4,none,70,bank,free,1,self-employed/management employee,1,registered,yes,bad
+none,36,Existing credits paid back duly,new car,909,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,36,none,own,1,skilled employee,1,none,yes,bad
+none,6,Existing credits paid back duly,furniture/equipment,2978,Btw 500 to 999 DM,Btw 1 to 4 years,1,male_single,none,2,car or other,32,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,furniture/equipment,1131,Less than 100 DM,unemployed,4,female_divorced/separated/married,none,2,car or other,33,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,11,Existing credits paid back duly,furniture/equipment,1577,Equal or Greater than 1000 DM,Less than a year,4,female_divorced/separated/married,none,1,real estate,20,none,own,1,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,furniture/equipment,3972,Less than 100 DM,Btw 4 to 7 years,2,female_divorced/separated/married,none,4,BSSA or life insurance,25,none,rent,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,24,Critical account,business,1935,Less than 100 DM,Greater than 7 years,4,male_divorced/separated,none,4,real estate,31,none,own,2,skilled employee,1,registered,yes,good
+Less than 0 DM,15,No credits taken,new car,950,Less than 100 DM,Greater than 7 years,4,male_single,none,3,car or other,33,none,rent,2,skilled employee,2,none,yes,good
+none,12,Existing credits paid back duly,furniture/equipment,763,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,1,real estate,26,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,24,Delays in paying off,furniture/equipment,2064,Less than 100 DM,unemployed,3,female_divorced/separated/married,none,2,BSSA or life insurance,34,none,own,1,self-employed/management employee,1,registered,yes,good
+Btw 0 to 199 DM,8,Existing credits paid back duly,radio/television,1414,Less than 100 DM,Btw 1 to 4 years,4,male_single,guarantor,2,real estate,33,none,own,1,skilled employee,1,none,no,bad
+Less than 0 DM,21,Delays in paying off,education,3414,Less than 100 DM,Less than a year,2,male_single,none,1,BSSA or life insurance,26,none,own,2,skilled employee,1,none,yes,good
+none,30,All credits taken paid back duly,used car,7485,none,unemployed,4,female_divorced/separated/married,none,1,real estate,53,bank,own,1,self-employed/management employee,1,registered,yes,good
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,2577,Less than 100 DM,Btw 1 to 4 years,2,male_divorced/separated,none,1,car or other,42,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,6,Critical account,radio/television,338,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,4,car or other,52,none,own,2,skilled employee,1,none,yes,bad
+none,12,Existing credits paid back duly,radio/television,1963,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,2,car or other,31,none,rent,2,self-employed/management employee,2,registered,yes,bad
+Less than 0 DM,21,Critical account,new car,571,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,65,none,own,2,skilled employee,1,none,yes,bad
+none,36,Delays in paying off,business,9572,Less than 100 DM,Less than a year,1,male_divorced/separated,none,1,car or other,28,none,own,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,36,Delays in paying off,business,4455,Less than 100 DM,Btw 1 to 4 years,2,male_divorced/separated,none,2,real estate,30,stores,own,2,self-employed/management employee,1,registered,yes,good
+Less than 0 DM,21,All credits taken paid back duly,new car,1647,none,Btw 1 to 4 years,4,male_single,none,2,BSSA or life insurance,40,none,own,2,unskilled - resident,2,none,yes,good
+none,24,Critical account,furniture/equipment,3777,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,male_single,none,4,real estate,50,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Critical account,new car,884,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,36,bank,own,1,skilled employee,2,registered,yes,good
+none,15,Critical account,radio/television,1360,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,BSSA or life insurance,31,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,9,All credits taken paid back duly,used car,5129,Less than 100 DM,Greater than 7 years,2,female_divorced/separated/married,none,4,none,74,bank,free,1,self-employed/management employee,2,registered,yes,good
+Btw 0 to 199 DM,16,Critical account,new car,1175,Less than 100 DM,unemployed,2,male_single,none,3,car or other,68,none,free,3,unemployed/unskilled - non-resident,1,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,radio/television,674,Btw 100 to 499 DM,Btw 4 to 7 years,4,male_married/widowed,none,1,BSSA or life insurance,20,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,18,No credits taken,furniture/equipment,3244,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,4,car or other,33,bank,own,2,skilled employee,1,registered,yes,bad
+none,24,Existing credits paid back duly,business,4591,Equal or Greater than 1000 DM,Btw 1 to 4 years,2,male_single,none,3,BSSA or life insurance,54,none,own,3,self-employed/management employee,1,registered,yes,good
+Btw 0 to 199 DM,48,No credits taken,business,3844,Btw 100 to 499 DM,Btw 4 to 7 years,4,male_single,none,4,none,34,none,free,1,unskilled - resident,2,none,yes,good
+Btw 0 to 199 DM,27,Existing credits paid back duly,business,3915,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,36,none,own,1,skilled employee,2,registered,yes,good
+none,6,Existing credits paid back duly,radio/television,2108,Less than 100 DM,Btw 4 to 7 years,2,male_married/widowed,none,2,real estate,29,none,rent,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,45,Existing credits paid back duly,radio/television,3031,Btw 100 to 499 DM,Btw 1 to 4 years,4,male_single,guarantor,4,BSSA or life insurance,21,none,rent,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,9,Critical account,education,1501,Less than 100 DM,Greater than 7 years,2,female_divorced/separated/married,none,3,car or other,34,none,own,2,self-employed/management employee,1,registered,yes,good
+none,6,Critical account,radio/television,1382,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,1,car or other,28,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,furniture/equipment,951,Btw 100 to 499 DM,Less than a year,4,female_divorced/separated/married,none,4,car or other,27,bank,rent,4,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,24,Existing credits paid back duly,used car,2760,none,Greater than 7 years,4,male_single,none,4,none,36,bank,free,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Delays in paying off,furniture/equipment,4297,Less than 100 DM,Greater than 7 years,4,male_divorced/separated,none,3,none,40,none,own,1,self-employed/management employee,1,registered,yes,good
+none,9,Critical account,education,936,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,2,car or other,52,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,new car,1168,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,3,real estate,27,none,own,1,unskilled - resident,1,none,yes,bad
+none,27,Delays in paying off,business,5117,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,4,car or other,26,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,retraining,902,Less than 100 DM,Btw 4 to 7 years,4,male_married/widowed,none,4,BSSA or life insurance,21,none,rent,1,skilled employee,1,none,yes,good
+none,12,Critical account,new car,1495,Less than 100 DM,Greater than 7 years,4,male_single,none,1,real estate,38,none,own,2,unskilled - resident,2,none,yes,bad
+Less than 0 DM,30,Critical account,used car,10623,Less than 100 DM,Greater than 7 years,3,male_single,none,4,none,38,none,free,3,self-employed/management employee,2,registered,yes,bad
+none,12,Critical account,furniture/equipment,1935,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,43,none,own,3,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Critical account,domestic appliances,1424,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,3,BSSA or life insurance,26,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,business,6568,Less than 100 DM,Btw 1 to 4 years,2,male_married/widowed,none,2,car or other,21,stores,own,1,unskilled - resident,1,none,yes,bad
+none,12,Existing credits paid back duly,used car,1413,Equal or Greater than 1000 DM,Btw 4 to 7 years,3,male_single,none,2,BSSA or life insurance,55,none,own,1,skilled employee,1,none,no,bad
+none,9,Critical account,radio/television,3074,none,Btw 1 to 4 years,1,male_single,none,2,real estate,33,none,own,2,skilled employee,2,none,yes,bad
+none,36,Existing credits paid back duly,radio/television,3835,none,Greater than 7 years,2,female_divorced/separated/married,none,4,real estate,45,none,own,1,unskilled - resident,1,registered,yes,bad
+Less than 0 DM,27,No credits taken,business,5293,Less than 100 DM,unemployed,2,male_single,none,4,BSSA or life insurance,50,stores,own,2,skilled employee,1,registered,yes,good
+Equal or Greater than 200 DM,30,Delays in paying off,business,1908,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,66,none,own,1,self-employed/management employee,1,registered,yes,good
+none,36,Critical account,radio/television,3342,none,Greater than 7 years,4,male_single,none,2,car or other,51,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,6,Critical account,retraining,932,none,Btw 4 to 7 years,1,female_divorced/separated/married,none,3,BSSA or life insurance,39,none,own,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,18,No credits taken,business,3104,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,1,BSSA or life insurance,31,bank,own,1,skilled employee,1,registered,yes,bad
+Equal or Greater than 200 DM,36,Existing credits paid back duly,radio/television,3913,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,23,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,3021,Less than 100 DM,Btw 1 to 4 years,2,male_divorced/separated,none,2,real estate,24,none,rent,1,unskilled - resident,1,none,yes,bad
+none,10,Existing credits paid back duly,new car,1364,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,4,car or other,64,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,625,Less than 100 DM,Less than a year,4,male_married/widowed,guarantor,1,real estate,26,bank,own,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,education,1200,none,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,BSSA or life insurance,23,bank,rent,1,skilled employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,radio/television,707,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,real estate,30,bank,own,2,skilled employee,1,none,yes,bad
+none,24,Delays in paying off,business,2978,none,Btw 1 to 4 years,4,male_single,none,4,real estate,32,none,own,2,skilled employee,2,registered,yes,bad
+none,15,Existing credits paid back duly,used car,4657,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,car or other,30,none,own,1,skilled employee,1,registered,yes,bad
+none,36,No credits taken,repairs,2613,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,27,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,48,Existing credits paid back duly,radio/television,10961,Equal or Greater than 1000 DM,Btw 4 to 7 years,1,male_single,co-applicant,2,none,27,bank,own,2,skilled employee,1,registered,yes,good
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,7865,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,53,none,free,1,self-employed/management employee,1,registered,yes,good
+none,9,Existing credits paid back duly,radio/television,1478,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,2,car or other,22,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,3149,Less than 100 DM,Less than a year,4,male_single,none,1,none,22,bank,free,1,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,36,Existing credits paid back duly,radio/television,4210,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,26,none,own,1,skilled employee,1,none,yes,good
+none,9,Existing credits paid back duly,new car,2507,Btw 500 to 999 DM,Greater than 7 years,2,male_single,none,4,none,51,none,free,1,unskilled - resident,1,none,yes,bad
+none,12,Existing credits paid back duly,radio/television,2141,Btw 100 to 499 DM,Btw 4 to 7 years,3,male_single,none,1,none,35,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,radio/television,866,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,guarantor,2,real estate,25,none,own,1,unskilled - resident,1,none,yes,bad
+none,4,Critical account,radio/television,1544,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,1,real estate,42,none,own,3,unskilled - resident,2,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,radio/television,1823,Less than 100 DM,unemployed,4,male_single,none,2,car or other,30,stores,own,1,self-employed/management employee,2,none,yes,good
+Btw 0 to 199 DM,6,Existing credits paid back duly,new car,14555,none,unemployed,1,male_single,none,2,BSSA or life insurance,23,none,own,1,unemployed/unskilled - non-resident,1,registered,yes,good
+Btw 0 to 199 DM,21,Existing credits paid back duly,business,2767,Btw 100 to 499 DM,Greater than 7 years,4,male_divorced/separated,none,2,car or other,61,bank,rent,2,unskilled - resident,1,none,yes,good
+none,12,Critical account,radio/television,1291,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,BSSA or life insurance,35,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,30,Existing credits paid back duly,radio/television,2522,Less than 100 DM,Greater than 7 years,1,male_single,guarantor,3,BSSA or life insurance,39,none,own,1,skilled employee,2,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,new car,915,none,Greater than 7 years,4,female_divorced/separated/married,none,2,car or other,29,bank,own,1,skilled employee,1,none,yes,good
+none,6,Existing credits paid back duly,radio/television,1595,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,2,BSSA or life insurance,51,none,own,1,skilled employee,2,none,yes,bad
+Less than 0 DM,48,No credits taken,used car,4605,Less than 100 DM,Greater than 7 years,3,male_single,none,4,none,24,none,free,2,skilled employee,2,none,yes,good
+none,12,Critical account,business,1185,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,2,real estate,27,none,own,2,skilled employee,1,none,yes,bad
+none,12,All credits taken paid back duly,retraining,3447,Btw 500 to 999 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,3,real estate,35,none,own,1,unskilled - resident,2,none,yes,bad
+none,24,Existing credits paid back duly,business,1258,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,1,real estate,25,none,own,1,skilled employee,1,registered,yes,bad
+none,12,Critical account,radio/television,717,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,52,none,own,3,skilled employee,1,none,yes,bad
+none,6,No credits taken,new car,1204,Btw 100 to 499 DM,Btw 1 to 4 years,4,male_single,none,1,none,35,bank,rent,1,skilled employee,1,none,no,bad
+Equal or Greater than 200 DM,24,Existing credits paid back duly,furniture/equipment,1925,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,26,none,own,1,skilled employee,1,none,yes,bad
+none,18,Existing credits paid back duly,radio/television,433,Less than 100 DM,unemployed,3,female_divorced/separated/married,co-applicant,4,real estate,22,none,rent,1,skilled employee,1,none,yes,good
+Less than 0 DM,6,Critical account,new car,666,Equal or Greater than 1000 DM,Btw 4 to 7 years,3,female_divorced/separated/married,none,4,real estate,39,none,own,2,unskilled - resident,1,registered,yes,bad
+Equal or Greater than 200 DM,12,Existing credits paid back duly,furniture/equipment,2251,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,2,car or other,46,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,30,Existing credits paid back duly,new car,2150,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,guarantor,2,none,24,bank,own,1,skilled employee,1,none,yes,good
+none,24,Delays in paying off,furniture/equipment,4151,Btw 100 to 499 DM,Btw 1 to 4 years,2,male_single,none,3,BSSA or life insurance,35,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,furniture/equipment,2030,none,Btw 4 to 7 years,2,male_single,none,1,car or other,24,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,60,Delays in paying off,radio/television,7418,none,Btw 1 to 4 years,1,male_single,none,1,real estate,27,none,own,1,unskilled - resident,1,none,yes,bad
+none,24,Critical account,radio/television,2684,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,real estate,35,none,own,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,12,All credits taken paid back duly,radio/television,2149,Less than 100 DM,Btw 1 to 4 years,4,male_divorced/separated,none,1,none,29,none,free,1,skilled employee,1,none,yes,good
+none,15,Existing credits paid back duly,used car,3812,Btw 100 to 499 DM,Less than a year,1,female_divorced/separated/married,none,4,car or other,23,none,own,1,skilled employee,1,registered,yes,bad
+none,11,Critical account,radio/television,1154,Btw 100 to 499 DM,unemployed,4,female_divorced/separated/married,none,4,real estate,57,none,own,3,unskilled - resident,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,1657,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,27,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,radio/television,1603,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,car or other,55,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,18,Critical account,new car,5302,Less than 100 DM,Greater than 7 years,2,male_single,none,4,none,36,none,free,3,self-employed/management employee,1,registered,yes,bad
+none,12,Critical account,education,2748,Less than 100 DM,Greater than 7 years,2,female_divorced/separated/married,none,4,none,57,bank,free,3,unskilled - resident,1,none,yes,bad
+none,10,Critical account,new car,1231,Less than 100 DM,Greater than 7 years,3,male_single,none,4,real estate,32,none,own,2,unskilled - resident,2,none,no,bad
+Btw 0 to 199 DM,15,Existing credits paid back duly,radio/television,802,Less than 100 DM,Greater than 7 years,4,male_single,none,3,car or other,37,none,own,1,skilled employee,2,none,yes,good
+none,36,Critical account,business,6304,none,Greater than 7 years,4,male_single,none,4,real estate,36,none,own,2,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,radio/television,1533,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,3,car or other,38,stores,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,14,Existing credits paid back duly,new car,8978,Less than 100 DM,Greater than 7 years,1,male_divorced/separated,none,4,BSSA or life insurance,45,none,own,1,self-employed/management employee,1,registered,no,good
+none,24,Existing credits paid back duly,radio/television,999,none,Greater than 7 years,4,male_single,none,2,car or other,25,none,own,2,skilled employee,1,none,yes,bad
+none,18,Existing credits paid back duly,new car,2662,none,Btw 4 to 7 years,4,male_single,none,3,BSSA or life insurance,32,none,own,1,skilled employee,1,none,no,bad
+none,12,Critical account,furniture/equipment,1402,Btw 500 to 999 DM,Btw 4 to 7 years,3,female_divorced/separated/married,none,4,car or other,37,none,rent,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,48,All credits taken paid back duly,new car,12169,none,unemployed,4,male_single,co-applicant,4,none,36,none,free,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,48,Existing credits paid back duly,radio/television,3060,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,4,real estate,28,none,own,2,skilled employee,1,none,yes,good
+Less than 0 DM,30,Existing credits paid back duly,repairs,11998,Less than 100 DM,Less than a year,1,male_divorced/separated,none,1,none,34,none,own,1,unskilled - resident,1,registered,yes,good
+none,9,Existing credits paid back duly,radio/television,2697,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,2,real estate,32,none,own,1,skilled employee,2,none,yes,bad
+none,18,Critical account,radio/television,2404,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,car or other,26,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,1262,none,Greater than 7 years,2,male_divorced/separated,none,4,BSSA or life insurance,49,none,own,1,unskilled - resident,1,registered,yes,bad
+none,6,Existing credits paid back duly,furniture/equipment,4611,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,4,BSSA or life insurance,32,none,own,1,skilled employee,1,none,yes,good
+none,24,Existing credits paid back duly,radio/television,1901,Btw 100 to 499 DM,Btw 1 to 4 years,4,male_single,none,4,car or other,29,none,rent,1,self-employed/management employee,1,registered,yes,bad
+none,15,Critical account,used car,3368,Equal or Greater than 1000 DM,Greater than 7 years,3,male_single,none,4,none,23,none,rent,2,skilled employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,furniture/equipment,1574,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,real estate,50,none,own,1,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,18,All credits taken paid back duly,radio/television,1445,none,Btw 4 to 7 years,4,male_single,none,4,car or other,49,bank,own,1,unskilled - resident,1,none,yes,bad
+none,15,Critical account,furniture/equipment,1520,none,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,63,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,24,Critical account,new car,3878,Btw 100 to 499 DM,Less than a year,4,male_divorced/separated,none,2,car or other,37,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,47,Existing credits paid back duly,new car,10722,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,1,real estate,35,none,own,1,unskilled - resident,1,registered,yes,bad
+Less than 0 DM,48,Existing credits paid back duly,used car,4788,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,3,BSSA or life insurance,26,none,own,1,skilled employee,2,none,yes,bad
+Btw 0 to 199 DM,48,Delays in paying off,others,7582,Btw 100 to 499 DM,unemployed,2,male_single,none,4,none,31,none,free,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,1092,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,guarantor,4,real estate,49,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,24,Delays in paying off,radio/television,1024,Less than 100 DM,Less than a year,4,male_married/widowed,none,4,real estate,48,stores,own,1,skilled employee,1,none,yes,good
+none,12,Existing credits paid back duly,business,1076,Less than 100 DM,Btw 1 to 4 years,2,male_married/widowed,none,2,real estate,26,none,own,1,skilled employee,1,registered,no,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,used car,9398,Less than 100 DM,Less than a year,1,male_married/widowed,none,4,car or other,28,none,rent,1,self-employed/management employee,1,registered,yes,good
+Less than 0 DM,24,Critical account,used car,6419,Less than 100 DM,Greater than 7 years,2,female_divorced/separated/married,none,4,none,44,none,free,2,self-employed/management employee,2,registered,yes,bad
+Equal or Greater than 200 DM,42,Critical account,used car,4796,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,56,none,free,1,skilled employee,1,none,yes,bad
+none,48,Critical account,business,7629,none,Greater than 7 years,4,male_divorced/separated,none,2,car or other,46,bank,own,2,self-employed/management employee,2,none,yes,bad
+Btw 0 to 199 DM,48,Existing credits paid back duly,furniture/equipment,9960,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,2,car or other,26,none,own,1,skilled employee,1,registered,yes,good
+none,12,Existing credits paid back duly,used car,4675,none,Less than a year,1,female_divorced/separated/married,none,4,car or other,20,none,rent,1,skilled employee,1,none,yes,bad
+none,10,Existing credits paid back duly,new car,1287,none,Greater than 7 years,4,male_single,co-applicant,2,BSSA or life insurance,45,none,own,1,unskilled - resident,1,none,no,bad
+none,18,Existing credits paid back duly,furniture/equipment,2515,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,4,real estate,43,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,21,Critical account,furniture/equipment,2745,Equal or Greater than 1000 DM,Btw 4 to 7 years,3,male_single,none,2,car or other,32,none,own,2,skilled employee,1,registered,yes,bad
+none,6,Existing credits paid back duly,new car,672,Less than 100 DM,unemployed,1,female_divorced/separated/married,none,4,real estate,54,none,own,1,unemployed/unskilled - non-resident,1,registered,yes,bad
+Btw 0 to 199 DM,36,No credits taken,radio/television,3804,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,1,car or other,42,none,own,1,skilled employee,1,registered,yes,good
+Equal or Greater than 200 DM,24,Critical account,new car,1344,none,Btw 4 to 7 years,4,male_single,none,2,real estate,37,bank,own,2,unskilled - resident,2,none,yes,good
+Less than 0 DM,10,Critical account,new car,1038,Less than 100 DM,Btw 4 to 7 years,4,male_single,co-applicant,3,BSSA or life insurance,49,none,own,2,skilled employee,1,registered,yes,bad
+none,48,Critical account,new car,10127,Btw 500 to 999 DM,Btw 1 to 4 years,2,male_single,none,2,none,44,bank,free,1,skilled employee,1,none,yes,good
+none,6,Existing credits paid back duly,furniture/equipment,1543,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,male_divorced/separated,none,2,real estate,33,none,own,1,skilled employee,1,none,yes,bad
+none,30,Existing credits paid back duly,used car,4811,none,Btw 4 to 7 years,2,female_divorced/separated/married,none,4,BSSA or life insurance,24,stores,rent,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,radio/television,727,Btw 100 to 499 DM,Less than a year,4,male_married/widowed,none,3,none,33,none,own,1,unskilled - resident,1,registered,yes,good
+Btw 0 to 199 DM,8,Existing credits paid back duly,furniture/equipment,1237,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,4,real estate,24,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,9,Existing credits paid back duly,new car,276,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,4,real estate,22,none,rent,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,48,Existing credits paid back duly,others,5381,none,unemployed,3,male_single,none,4,none,40,bank,free,1,unemployed/unskilled - non-resident,1,registered,yes,bad
+none,24,Existing credits paid back duly,furniture/equipment,5511,Btw 100 to 499 DM,Btw 1 to 4 years,4,male_single,none,1,car or other,25,stores,own,1,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,24,Existing credits paid back duly,furniture/equipment,3749,Less than 100 DM,Less than a year,2,female_divorced/separated/married,none,4,car or other,26,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,685,Less than 100 DM,Btw 4 to 7 years,2,male_married/widowed,none,3,car or other,25,bank,own,1,unskilled - resident,1,none,yes,good
+Equal or Greater than 200 DM,4,Existing credits paid back duly,new car,1494,none,Less than a year,1,male_single,none,2,real estate,29,none,own,1,unskilled - resident,2,none,no,bad
+Less than 0 DM,36,All credits taken paid back duly,furniture/equipment,2746,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,31,bank,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,708,Less than 100 DM,Btw 1 to 4 years,2,male_single,guarantor,3,BSSA or life insurance,38,none,own,1,unskilled - resident,2,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,furniture/equipment,4351,none,Btw 1 to 4 years,1,female_divorced/separated/married,none,4,BSSA or life insurance,48,none,own,1,unskilled - resident,1,registered,yes,bad
+none,12,Critical account,education,701,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,32,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,15,Delays in paying off,furniture/equipment,3643,Less than 100 DM,Greater than 7 years,1,female_divorced/separated/married,none,4,BSSA or life insurance,27,none,own,2,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,30,Critical account,new car,4249,Less than 100 DM,unemployed,4,male_married/widowed,none,2,car or other,28,none,own,2,self-employed/management employee,1,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,radio/television,1938,Less than 100 DM,Less than a year,4,male_divorced/separated,none,3,BSSA or life insurance,32,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,used car,2910,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,1,none,34,none,free,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,furniture/equipment,2659,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,28,none,own,1,skilled employee,1,none,yes,bad
+none,18,Critical account,new car,1028,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,3,real estate,36,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,8,Critical account,new car,3398,Less than 100 DM,Btw 4 to 7 years,1,male_single,none,4,real estate,39,none,own,2,unskilled - resident,1,none,no,bad
+none,12,Critical account,furniture/equipment,5801,none,Greater than 7 years,2,male_single,none,4,BSSA or life insurance,49,none,rent,1,skilled employee,1,registered,yes,bad
+none,24,Existing credits paid back duly,new car,1525,Equal or Greater than 1000 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,3,car or other,34,none,own,1,skilled employee,2,registered,yes,bad
+Equal or Greater than 200 DM,36,Existing credits paid back duly,radio/television,4473,Less than 100 DM,Greater than 7 years,4,male_single,none,2,car or other,31,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,6,Existing credits paid back duly,radio/television,1068,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,28,none,own,1,skilled employee,2,none,yes,bad
+Less than 0 DM,24,Critical account,used car,6615,Less than 100 DM,unemployed,2,male_single,none,4,none,75,none,free,2,self-employed/management employee,1,registered,yes,bad
+none,18,Critical account,education,1864,Btw 100 to 499 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,real estate,30,none,own,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,60,Existing credits paid back duly,new car,7408,Btw 100 to 499 DM,Less than a year,4,female_divorced/separated/married,none,2,BSSA or life insurance,24,none,own,1,self-employed/management employee,1,none,yes,good
+none,48,Critical account,used car,11590,Btw 100 to 499 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,4,car or other,24,bank,rent,2,unskilled - resident,1,none,yes,good
+Less than 0 DM,24,No credits taken,furniture/equipment,4110,Less than 100 DM,Greater than 7 years,3,male_single,none,4,none,23,bank,rent,2,skilled employee,2,none,yes,good
+Less than 0 DM,6,Critical account,furniture/equipment,3384,Less than 100 DM,Btw 1 to 4 years,1,male_divorced/separated,none,4,real estate,44,none,rent,1,self-employed/management employee,1,registered,yes,good
+Btw 0 to 199 DM,13,Existing credits paid back duly,radio/television,2101,Less than 100 DM,Less than a year,2,female_divorced/separated/married,guarantor,4,BSSA or life insurance,23,none,own,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,15,Existing credits paid back duly,domestic appliances,1275,none,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,car or other,24,none,rent,1,skilled employee,1,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,4169,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,BSSA or life insurance,28,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,10,Existing credits paid back duly,furniture/equipment,1521,Less than 100 DM,Btw 1 to 4 years,4,male_divorced/separated,none,2,car or other,31,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,24,Critical account,education,5743,Less than 100 DM,Less than a year,2,female_divorced/separated/married,none,4,none,24,none,free,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,21,Existing credits paid back duly,furniture/equipment,3599,Less than 100 DM,Btw 4 to 7 years,1,female_divorced/separated/married,none,4,car or other,26,none,rent,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,radio/television,3213,Btw 500 to 999 DM,Less than a year,1,male_married/widowed,none,3,real estate,25,none,rent,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,business,4439,Less than 100 DM,Greater than 7 years,1,male_single,co-applicant,1,real estate,33,bank,own,1,self-employed/management employee,1,registered,yes,bad
+Equal or Greater than 200 DM,10,Existing credits paid back duly,new car,3949,Less than 100 DM,Less than a year,1,male_single,guarantor,1,BSSA or life insurance,37,none,own,1,unskilled - resident,2,none,yes,bad
+none,15,Critical account,radio/television,1459,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,car or other,43,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,13,Critical account,radio/television,882,Less than 100 DM,Less than a year,4,male_single,guarantor,4,real estate,23,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,radio/television,3758,Btw 500 to 999 DM,unemployed,1,female_divorced/separated/married,none,4,none,23,none,rent,1,unemployed/unskilled - non-resident,1,none,yes,bad
+none,6,Delays in paying off,business,1743,Btw 100 to 499 DM,Btw 1 to 4 years,1,male_single,none,2,real estate,34,none,own,2,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,9,Critical account,education,1136,Equal or Greater than 1000 DM,Greater than 7 years,4,male_single,none,3,none,32,none,free,2,skilled employee,2,none,yes,good
+none,9,Existing credits paid back duly,domestic appliances,1236,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,4,real estate,23,none,rent,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,furniture/equipment,959,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,2,car or other,29,none,own,1,skilled employee,1,none,no,good
+none,18,Critical account,used car,3229,none,unemployed,2,male_single,none,4,none,38,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,12,No credits taken,radio/television,6199,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,BSSA or life insurance,28,none,rent,2,skilled employee,1,registered,yes,good
+none,10,Existing credits paid back duly,education,727,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,4,none,46,none,free,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,new car,1246,Less than 100 DM,Less than a year,4,male_single,none,2,real estate,23,stores,own,1,unskilled - resident,1,none,yes,good
+none,12,Critical account,radio/television,2331,none,Greater than 7 years,1,male_single,co-applicant,4,real estate,49,none,own,1,skilled employee,1,registered,yes,bad
+none,36,Delays in paying off,radio/television,4463,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,26,none,own,2,self-employed/management employee,1,registered,yes,good
+none,12,Existing credits paid back duly,radio/television,776,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,2,real estate,28,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,30,Existing credits paid back duly,furniture/equipment,2406,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,4,real estate,23,none,rent,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,18,Existing credits paid back duly,education,1239,none,Btw 1 to 4 years,4,male_single,none,4,none,61,none,free,1,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,12,Existing credits paid back duly,radio/television,3399,none,Greater than 7 years,2,male_single,none,3,car or other,37,none,own,1,self-employed/management employee,1,none,yes,bad
+Equal or Greater than 200 DM,12,Delays in paying off,new car,2247,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,car or other,36,stores,own,2,skilled employee,1,registered,yes,bad
+none,6,Existing credits paid back duly,furniture/equipment,1766,Less than 100 DM,Btw 1 to 4 years,1,male_married/widowed,none,2,BSSA or life insurance,21,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,furniture/equipment,2473,Less than 100 DM,unemployed,4,male_single,none,1,car or other,25,none,own,1,unemployed/unskilled - non-resident,1,none,yes,good
+none,12,Existing credits paid back duly,business,1542,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,4,car or other,36,none,own,1,skilled employee,1,registered,yes,bad
+none,18,Critical account,used car,3850,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,1,car or other,27,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,furniture/equipment,3650,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,4,car or other,22,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,furniture/equipment,3446,Less than 100 DM,Greater than 7 years,4,male_single,none,2,car or other,42,none,own,1,skilled employee,2,none,yes,good
+Btw 0 to 199 DM,18,Existing credits paid back duly,furniture/equipment,3001,Less than 100 DM,Btw 4 to 7 years,2,female_divorced/separated/married,none,4,real estate,40,none,rent,1,skilled employee,1,none,yes,bad
+none,36,Existing credits paid back duly,new car,3079,none,Btw 1 to 4 years,4,male_single,none,4,real estate,36,none,own,1,skilled employee,1,none,yes,bad
+none,18,Critical account,radio/television,6070,Less than 100 DM,Greater than 7 years,3,male_single,none,4,car or other,33,none,own,2,skilled employee,1,registered,yes,bad
+none,10,Critical account,furniture/equipment,2146,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,3,real estate,23,none,rent,2,skilled employee,1,none,yes,bad
+none,60,Critical account,new car,13756,none,Greater than 7 years,2,male_single,none,4,none,63,bank,free,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,60,All credits taken paid back duly,others,14782,Btw 100 to 499 DM,Greater than 7 years,3,female_divorced/separated/married,none,4,none,60,bank,free,2,self-employed/management employee,1,registered,yes,good
+Less than 0 DM,48,All credits taken paid back duly,business,7685,Less than 100 DM,Btw 4 to 7 years,2,female_divorced/separated/married,guarantor,4,car or other,37,none,rent,1,skilled employee,1,none,yes,good
+none,18,Delays in paying off,radio/television,2320,Less than 100 DM,unemployed,2,male_married/widowed,none,3,real estate,34,none,own,2,skilled employee,1,none,yes,bad
+none,7,Delays in paying off,radio/television,846,none,Greater than 7 years,3,male_single,none,4,none,36,none,free,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,new car,14318,Less than 100 DM,Greater than 7 years,4,male_single,none,2,none,57,none,free,1,self-employed/management employee,1,registered,yes,good
+none,6,Critical account,new car,362,Btw 100 to 499 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,car or other,52,none,own,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,20,Existing credits paid back duly,furniture/equipment,2212,none,Btw 4 to 7 years,4,male_single,none,4,car or other,39,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,used car,12976,Less than 100 DM,unemployed,3,female_divorced/separated/married,none,4,none,38,none,free,1,self-employed/management employee,1,registered,yes,good
+none,22,Existing credits paid back duly,new car,1283,none,Btw 4 to 7 years,4,female_divorced/separated/married,none,4,BSSA or life insurance,25,none,rent,1,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,12,Existing credits paid back duly,new car,1330,Less than 100 DM,Less than a year,4,male_single,none,1,real estate,26,none,own,1,skilled employee,1,none,yes,bad
+none,30,Delays in paying off,business,4272,Btw 100 to 499 DM,Btw 1 to 4 years,2,male_single,none,2,BSSA or life insurance,26,none,own,2,unskilled - resident,1,none,yes,bad
+none,18,Critical account,radio/television,2238,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,1,car or other,25,none,own,2,skilled employee,1,none,yes,bad
+none,18,Existing credits paid back duly,radio/television,1126,none,Less than a year,4,female_divorced/separated/married,none,2,real estate,21,none,rent,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Critical account,furniture/equipment,7374,Less than 100 DM,unemployed,4,male_single,none,4,BSSA or life insurance,40,stores,own,2,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,15,Critical account,business,2326,Btw 500 to 999 DM,Btw 1 to 4 years,2,male_single,none,4,car or other,27,bank,own,1,skilled employee,1,none,yes,bad
+none,9,Existing credits paid back duly,business,1449,Less than 100 DM,Btw 4 to 7 years,3,female_divorced/separated/married,none,2,car or other,27,none,own,2,skilled employee,1,none,yes,bad
+none,18,Existing credits paid back duly,new car,1820,Less than 100 DM,Btw 1 to 4 years,2,male_married/widowed,none,2,BSSA or life insurance,30,none,own,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,furniture/equipment,983,Equal or Greater than 1000 DM,Less than a year,1,female_divorced/separated/married,none,4,real estate,19,none,rent,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,new car,3249,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,4,none,39,bank,free,1,self-employed/management employee,2,registered,yes,bad
+Less than 0 DM,6,Critical account,radio/television,1957,Less than 100 DM,Btw 4 to 7 years,1,female_divorced/separated/married,none,4,car or other,31,none,own,1,skilled employee,1,none,yes,bad
+none,9,Critical account,furniture/equipment,2406,Less than 100 DM,unemployed,2,male_single,none,3,car or other,31,none,own,1,self-employed/management employee,1,none,yes,bad
+Btw 0 to 199 DM,39,Delays in paying off,education,11760,Btw 100 to 499 DM,Btw 4 to 7 years,2,male_single,none,3,none,32,none,rent,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,2578,Less than 100 DM,unemployed,3,female_divorced/separated/married,none,4,none,55,none,free,1,self-employed/management employee,1,none,yes,bad
+Less than 0 DM,36,Critical account,furniture/equipment,2348,Less than 100 DM,Btw 1 to 4 years,3,male_married/widowed,none,2,BSSA or life insurance,46,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,1223,Less than 100 DM,Greater than 7 years,1,male_divorced/separated,none,1,real estate,46,none,rent,2,skilled employee,1,none,yes,good
+none,24,Critical account,radio/television,1516,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,1,real estate,43,none,own,2,unskilled - resident,1,none,yes,bad
+none,18,Existing credits paid back duly,radio/television,1473,Less than 100 DM,Less than a year,3,male_married/widowed,none,4,real estate,39,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Critical account,business,1887,none,Btw 1 to 4 years,4,male_married/widowed,none,4,real estate,28,bank,own,2,skilled employee,1,none,yes,bad
+none,24,Delays in paying off,business,8648,Less than 100 DM,Less than a year,2,male_single,none,2,car or other,27,bank,own,2,skilled employee,1,registered,yes,good
+none,14,Delays in paying off,new car,802,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,27,none,own,2,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,18,Delays in paying off,new car,2899,none,Greater than 7 years,4,male_single,none,4,car or other,43,none,own,1,skilled employee,2,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,radio/television,2039,Less than 100 DM,Less than a year,1,male_married/widowed,none,1,BSSA or life insurance,22,none,own,1,skilled employee,1,registered,yes,good
+none,24,Critical account,used car,2197,none,Btw 4 to 7 years,4,male_single,none,4,car or other,43,none,own,2,skilled employee,2,registered,yes,bad
+Less than 0 DM,15,Existing credits paid back duly,radio/television,1053,Less than 100 DM,Less than a year,4,male_married/widowed,none,2,real estate,27,none,own,1,skilled employee,1,none,no,bad
+none,24,Existing credits paid back duly,radio/television,3235,Btw 500 to 999 DM,Greater than 7 years,3,male_divorced/separated,none,2,car or other,26,none,own,1,self-employed/management employee,1,registered,yes,bad
+Equal or Greater than 200 DM,12,Critical account,new car,939,Btw 500 to 999 DM,Btw 4 to 7 years,4,male_married/widowed,none,2,real estate,28,none,own,3,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,24,Existing credits paid back duly,radio/television,1967,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,car or other,20,none,own,1,skilled employee,1,registered,yes,bad
+none,33,Critical account,used car,7253,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,2,car or other,35,none,own,2,self-employed/management employee,1,registered,yes,bad
+none,12,Critical account,business,2292,Less than 100 DM,unemployed,4,male_single,none,2,car or other,42,stores,own,2,self-employed/management employee,1,registered,yes,good
+none,10,Existing credits paid back duly,new car,1597,Btw 500 to 999 DM,Btw 1 to 4 years,3,male_single,none,2,none,40,none,rent,1,unskilled - resident,2,none,no,bad
+Less than 0 DM,24,Existing credits paid back duly,new car,1381,none,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,BSSA or life insurance,35,none,own,1,skilled employee,1,none,yes,good
+none,36,Critical account,used car,5842,Less than 100 DM,Greater than 7 years,2,male_single,none,2,BSSA or life insurance,35,none,own,2,skilled employee,2,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,new car,2579,Less than 100 DM,Less than a year,4,male_single,none,1,real estate,33,none,own,1,unskilled - resident,2,none,yes,good
+Less than 0 DM,18,Delays in paying off,education,8471,none,Btw 1 to 4 years,1,female_divorced/separated/married,none,2,car or other,23,none,rent,2,skilled employee,1,registered,yes,bad
+none,21,Existing credits paid back duly,new car,2782,Btw 500 to 999 DM,Btw 4 to 7 years,1,female_divorced/separated/married,none,2,car or other,31,bank,own,1,self-employed/management employee,1,none,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,new car,1042,none,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,BSSA or life insurance,33,none,own,1,skilled employee,1,none,yes,good
+none,15,Existing credits paid back duly,new car,3186,Equal or Greater than 1000 DM,Btw 4 to 7 years,2,female_divorced/separated/married,none,3,car or other,20,none,rent,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,used car,2028,none,Btw 1 to 4 years,4,male_single,none,2,car or other,30,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Critical account,new car,958,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,3,real estate,47,none,own,2,unskilled - resident,2,none,yes,bad
+none,21,Delays in paying off,furniture/equipment,1591,Btw 100 to 499 DM,Btw 4 to 7 years,4,male_single,none,3,real estate,34,none,own,2,self-employed/management employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,furniture/equipment,2762,none,Greater than 7 years,1,female_divorced/separated/married,none,2,BSSA or life insurance,25,bank,own,1,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,18,Existing credits paid back duly,used car,2779,Less than 100 DM,Btw 1 to 4 years,1,male_married/widowed,none,3,car or other,21,none,rent,1,skilled employee,1,registered,yes,bad
+none,28,Critical account,radio/television,2743,Less than 100 DM,Greater than 7 years,4,male_single,none,2,car or other,29,none,own,2,skilled employee,1,none,yes,bad
+none,18,Critical account,radio/television,1149,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,male_single,none,3,real estate,46,none,own,2,skilled employee,1,none,yes,bad
+none,9,Existing credits paid back duly,furniture/equipment,1313,Less than 100 DM,Greater than 7 years,1,male_single,none,4,car or other,20,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,18,Critical account,repairs,1190,Less than 100 DM,unemployed,2,female_divorced/separated/married,none,4,none,55,none,free,3,unemployed/unskilled - non-resident,2,none,yes,good
+none,5,Existing credits paid back duly,business,3448,Less than 100 DM,Btw 4 to 7 years,1,male_single,none,4,real estate,74,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,others,11328,Less than 100 DM,Btw 1 to 4 years,2,male_single,co-applicant,3,car or other,29,bank,own,2,self-employed/management employee,1,registered,yes,good
+Less than 0 DM,6,Critical account,furniture/equipment,1872,Less than 100 DM,unemployed,4,male_single,none,4,none,36,none,free,3,self-employed/management employee,1,registered,yes,bad
+none,24,Critical account,repairs,2058,Less than 100 DM,Btw 1 to 4 years,4,male_divorced/separated,none,2,real estate,33,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,9,Existing credits paid back duly,furniture/equipment,2136,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,real estate,25,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,1484,none,Btw 1 to 4 years,2,male_married/widowed,none,1,real estate,25,none,own,1,skilled employee,1,registered,yes,good
+none,6,Existing credits paid back duly,repairs,660,Btw 500 to 999 DM,Btw 4 to 7 years,2,male_married/widowed,none,4,real estate,23,none,rent,1,unskilled - resident,1,none,yes,bad
+none,24,Critical account,new car,1287,Equal or Greater than 1000 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,real estate,37,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,42,Critical account,repairs,3394,Less than 100 DM,unemployed,4,male_single,co-applicant,4,car or other,65,none,own,2,unemployed/unskilled - non-resident,1,none,yes,bad
+Equal or Greater than 200 DM,12,All credits taken paid back duly,business,609,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,real estate,26,none,own,1,unemployed/unskilled - non-resident,1,none,yes,good
+none,12,Existing credits paid back duly,new car,1884,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,39,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,1620,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,co-applicant,3,BSSA or life insurance,30,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,20,Delays in paying off,others,2629,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,3,car or other,29,bank,own,2,skilled employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,education,719,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,41,bank,own,1,unskilled - resident,2,none,yes,good
+Btw 0 to 199 DM,48,Critical account,furniture/equipment,5096,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,3,car or other,30,none,own,1,self-employed/management employee,1,registered,yes,good
+none,9,Critical account,education,1244,none,Greater than 7 years,4,female_divorced/separated/married,none,4,BSSA or life insurance,41,none,rent,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,new car,1842,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,car or other,34,none,own,1,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,7,Existing credits paid back duly,radio/television,2576,Less than 100 DM,Btw 1 to 4 years,2,male_single,guarantor,2,real estate,35,none,own,1,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,12,Existing credits paid back duly,furniture/equipment,1424,none,Greater than 7 years,3,female_divorced/separated/married,none,4,real estate,55,none,own,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,15,Delays in paying off,repairs,1512,Equal or Greater than 1000 DM,Btw 1 to 4 years,3,male_married/widowed,none,3,BSSA or life insurance,61,stores,own,2,skilled employee,1,none,yes,good
+none,36,Critical account,used car,11054,none,Btw 1 to 4 years,4,male_single,none,2,car or other,30,none,own,1,self-employed/management employee,1,registered,yes,bad
+none,6,Existing credits paid back duly,radio/television,518,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,1,real estate,29,none,own,1,skilled employee,1,none,yes,bad
+none,12,No credits taken,furniture/equipment,2759,Less than 100 DM,Greater than 7 years,2,male_single,none,4,BSSA or life insurance,34,none,own,2,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,used car,2670,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,35,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,new car,4817,Less than 100 DM,Btw 4 to 7 years,2,male_single,co-applicant,3,BSSA or life insurance,31,none,own,1,skilled employee,1,registered,yes,good
+none,24,Existing credits paid back duly,used car,2679,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,none,29,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,11,Critical account,new car,3905,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,36,none,rent,2,skilled employee,2,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,used car,3386,Less than 100 DM,Greater than 7 years,3,male_single,none,4,none,35,none,free,1,skilled employee,1,registered,yes,good
+Less than 0 DM,6,Existing credits paid back duly,domestic appliances,343,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,real estate,27,none,own,1,skilled employee,1,none,yes,bad
+none,18,Existing credits paid back duly,radio/television,4594,Less than 100 DM,Less than a year,3,male_single,none,2,car or other,32,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,furniture/equipment,3620,Less than 100 DM,Btw 1 to 4 years,1,male_single,guarantor,2,BSSA or life insurance,37,none,own,1,skilled employee,2,none,yes,bad
+Less than 0 DM,15,Existing credits paid back duly,new car,1721,Less than 100 DM,Less than a year,2,male_single,none,3,real estate,36,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,furniture/equipment,3017,Less than 100 DM,Less than a year,3,female_divorced/separated/married,none,1,real estate,34,none,rent,1,self-employed/management employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,retraining,754,none,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,38,none,own,2,skilled employee,1,none,yes,bad
+none,18,Existing credits paid back duly,business,1950,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,1,car or other,34,stores,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,used car,2924,Less than 100 DM,Btw 1 to 4 years,3,male_single,guarantor,4,none,63,bank,own,1,skilled employee,2,registered,yes,bad
+Less than 0 DM,24,Delays in paying off,radio/television,1659,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,2,car or other,29,none,rent,1,unskilled - resident,1,registered,yes,good
+none,48,Delays in paying off,radio/television,7238,none,Greater than 7 years,3,male_single,none,3,car or other,32,bank,own,2,skilled employee,2,none,yes,bad
+none,33,Delays in paying off,business,2764,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,car or other,26,none,own,2,skilled employee,1,registered,yes,bad
+none,24,Delays in paying off,used car,4679,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,3,car or other,35,none,own,2,unskilled - resident,1,registered,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,radio/television,3092,Btw 100 to 499 DM,Less than a year,3,male_married/widowed,none,2,car or other,22,none,rent,1,skilled employee,1,registered,yes,good
+Less than 0 DM,6,Existing credits paid back duly,education,448,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,BSSA or life insurance,23,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,9,Existing credits paid back duly,new car,654,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,3,car or other,28,none,own,1,unskilled - resident,1,none,yes,good
+none,6,Existing credits paid back duly,retraining,1238,none,unemployed,4,male_single,none,4,BSSA or life insurance,36,none,own,1,self-employed/management employee,2,registered,yes,bad
+Btw 0 to 199 DM,18,Critical account,radio/television,1245,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,2,car or other,33,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,18,No credits taken,furniture/equipment,3114,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,4,BSSA or life insurance,26,none,rent,1,skilled employee,1,none,yes,good
+none,39,Existing credits paid back duly,used car,2569,Btw 500 to 999 DM,Btw 1 to 4 years,4,male_single,none,4,car or other,24,none,own,1,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,24,Existing credits paid back duly,radio/television,5152,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,2,car or other,25,bank,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,business,1037,Btw 100 to 499 DM,Btw 4 to 7 years,3,male_single,none,4,real estate,39,none,own,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,15,Critical account,furniture/equipment,1478,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,44,none,own,2,skilled employee,2,registered,yes,bad
+Btw 0 to 199 DM,12,Critical account,radio/television,3573,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,1,real estate,23,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,new car,1201,Less than 100 DM,Less than a year,4,male_single,none,1,BSSA or life insurance,26,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,30,Existing credits paid back duly,furniture/equipment,3622,Equal or Greater than 1000 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,BSSA or life insurance,57,none,rent,2,skilled employee,1,registered,yes,bad
+none,15,Delays in paying off,furniture/equipment,960,Equal or Greater than 1000 DM,Btw 4 to 7 years,3,female_divorced/separated/married,none,2,BSSA or life insurance,30,none,own,2,skilled employee,1,none,yes,bad
+none,12,Critical account,new car,1163,Btw 500 to 999 DM,Btw 1 to 4 years,4,male_single,none,4,real estate,44,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,6,Delays in paying off,new car,1209,Less than 100 DM,unemployed,4,male_single,none,4,BSSA or life insurance,47,none,own,1,self-employed/management employee,1,registered,yes,good
+none,12,Existing credits paid back duly,radio/television,3077,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,4,car or other,52,none,own,1,skilled employee,1,registered,yes,bad
+none,24,Existing credits paid back duly,new car,3757,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,co-applicant,4,none,62,none,free,1,skilled employee,1,registered,yes,bad
+none,10,Existing credits paid back duly,new car,1418,Btw 100 to 499 DM,Btw 1 to 4 years,3,male_single,none,2,real estate,35,none,rent,1,unskilled - resident,1,none,no,bad
+none,6,Existing credits paid back duly,new car,3518,Less than 100 DM,Btw 1 to 4 years,2,male_single,guarantor,3,BSSA or life insurance,26,none,rent,1,skilled employee,1,none,yes,bad
+none,12,Critical account,radio/television,1934,Less than 100 DM,Greater than 7 years,2,male_single,none,2,none,26,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,27,No credits taken,business,8318,Less than 100 DM,Greater than 7 years,2,female_divorced/separated/married,none,4,none,42,none,free,2,self-employed/management employee,1,registered,yes,good
+none,6,Critical account,radio/television,1237,Btw 100 to 499 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,1,BSSA or life insurance,27,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,6,Existing credits paid back duly,radio/television,368,none,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,38,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Critical account,new car,2122,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,real estate,39,none,rent,2,unskilled - resident,2,none,no,bad
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,2996,none,Btw 1 to 4 years,2,male_married/widowed,none,4,car or other,20,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,36,Existing credits paid back duly,furniture/equipment,9034,Btw 100 to 499 DM,Less than a year,4,male_single,co-applicant,1,none,29,none,rent,1,self-employed/management employee,1,registered,yes,good
+none,24,Critical account,furniture/equipment,1585,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,3,BSSA or life insurance,40,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,radio/television,1301,Less than 100 DM,Greater than 7 years,4,male_married/widowed,guarantor,2,real estate,32,none,own,1,unskilled - resident,1,none,yes,bad
+Equal or Greater than 200 DM,6,Critical account,new car,1323,Btw 100 to 499 DM,Greater than 7 years,2,male_divorced/separated,none,4,car or other,28,none,own,2,skilled employee,2,registered,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,new car,3123,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,BSSA or life insurance,27,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,36,Existing credits paid back duly,used car,5493,Less than 100 DM,Greater than 7 years,2,male_single,none,4,none,42,none,free,1,skilled employee,2,none,yes,bad
+Equal or Greater than 200 DM,9,Existing credits paid back duly,radio/television,1126,Btw 100 to 499 DM,Greater than 7 years,2,male_divorced/separated,none,4,real estate,49,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,24,Critical account,radio/television,1216,Btw 100 to 499 DM,Less than a year,4,male_single,none,4,none,38,bank,own,2,skilled employee,2,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,new car,1207,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,BSSA or life insurance,24,none,rent,1,skilled employee,1,none,yes,good
+none,10,Existing credits paid back duly,new car,1309,none,Btw 1 to 4 years,4,male_single,guarantor,4,BSSA or life insurance,27,none,own,1,unskilled - resident,1,none,yes,good
+Equal or Greater than 200 DM,15,Critical account,used car,2360,Btw 500 to 999 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,36,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,15,All credits taken paid back duly,new car,6850,Btw 100 to 499 DM,unemployed,1,male_single,none,2,BSSA or life insurance,34,none,own,1,self-employed/management employee,2,registered,yes,good
+none,24,Existing credits paid back duly,radio/television,1413,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,2,BSSA or life insurance,28,none,own,1,skilled employee,1,none,yes,bad
+none,39,Existing credits paid back duly,used car,8588,Btw 100 to 499 DM,Greater than 7 years,4,male_single,none,2,car or other,45,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,new car,759,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,2,real estate,26,none,own,1,skilled employee,1,none,yes,good
+none,36,Existing credits paid back duly,used car,4686,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,none,32,none,free,1,self-employed/management employee,1,registered,yes,bad
+Equal or Greater than 200 DM,15,Existing credits paid back duly,business,2687,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,4,BSSA or life insurance,26,none,rent,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Delays in paying off,radio/television,585,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,co-applicant,4,real estate,20,none,rent,2,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,new car,2255,none,Less than a year,4,male_single,none,1,BSSA or life insurance,54,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,6,Critical account,new car,609,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,3,BSSA or life insurance,37,none,own,2,skilled employee,1,none,no,bad
+Less than 0 DM,6,Critical account,new car,1361,Less than 100 DM,Less than a year,2,male_single,none,4,real estate,40,none,own,1,unskilled - resident,2,none,no,bad
+none,36,Critical account,furniture/equipment,7127,Less than 100 DM,Less than a year,2,female_divorced/separated/married,none,4,BSSA or life insurance,23,none,rent,2,skilled employee,1,registered,yes,good
+Less than 0 DM,6,Existing credits paid back duly,new car,1203,Btw 100 to 499 DM,Greater than 7 years,3,male_single,none,2,BSSA or life insurance,43,none,own,1,skilled employee,1,registered,yes,bad
+none,6,Critical account,radio/television,700,none,Greater than 7 years,4,male_single,none,4,none,36,none,free,2,skilled employee,1,none,yes,bad
+none,24,Critical account,repairs,5507,Less than 100 DM,Greater than 7 years,3,male_single,none,4,none,44,none,free,2,skilled employee,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,radio/television,3190,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,real estate,24,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,48,No credits taken,furniture/equipment,7119,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,4,none,53,none,free,2,skilled employee,2,none,yes,good
+none,24,Existing credits paid back duly,used car,3488,Btw 100 to 499 DM,Btw 4 to 7 years,3,female_divorced/separated/married,none,4,car or other,23,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,radio/television,1113,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,guarantor,4,real estate,26,none,own,1,unskilled - resident,2,none,yes,bad
+Btw 0 to 199 DM,26,Existing credits paid back duly,used car,7966,Less than 100 DM,Less than a year,2,male_single,none,3,car or other,30,none,own,2,skilled employee,1,none,yes,bad
+none,15,Critical account,education,1532,Btw 100 to 499 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,3,car or other,31,none,own,1,skilled employee,1,none,yes,bad
+none,4,Critical account,radio/television,1503,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,1,real estate,42,none,own,2,unskilled - resident,2,none,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,radio/television,2302,Less than 100 DM,Btw 1 to 4 years,4,male_divorced/separated,none,4,car or other,31,none,rent,1,skilled employee,1,none,yes,good
+Less than 0 DM,6,Existing credits paid back duly,new car,662,Less than 100 DM,Less than a year,3,male_single,none,4,real estate,41,none,own,1,unskilled - resident,2,registered,yes,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,education,2273,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,1,car or other,32,none,own,2,skilled employee,2,none,yes,bad
+Btw 0 to 199 DM,15,Existing credits paid back duly,new car,2631,Btw 100 to 499 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,4,car or other,28,none,rent,2,skilled employee,1,registered,yes,good
+none,12,Delays in paying off,used car,1503,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,4,real estate,41,none,rent,1,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,radio/television,1311,Btw 100 to 499 DM,Btw 4 to 7 years,4,male_married/widowed,none,3,BSSA or life insurance,26,none,own,1,skilled employee,1,registered,yes,bad
+none,24,Existing credits paid back duly,radio/television,3105,none,Less than a year,4,male_single,none,2,car or other,25,none,own,2,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,21,Critical account,education,2319,Less than 100 DM,Less than a year,2,male_divorced/separated,none,1,car or other,33,none,rent,1,skilled employee,1,none,yes,good
+Less than 0 DM,6,Existing credits paid back duly,new car,1374,none,unemployed,4,female_divorced/separated/married,none,3,BSSA or life insurance,75,none,own,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Critical account,furniture/equipment,3612,Less than 100 DM,Greater than 7 years,3,female_divorced/separated/married,none,4,BSSA or life insurance,37,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,48,Existing credits paid back duly,new car,7763,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,42,bank,free,1,self-employed/management employee,1,none,yes,good
+Equal or Greater than 200 DM,18,Existing credits paid back duly,furniture/equipment,3049,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,1,BSSA or life insurance,45,stores,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,1534,Less than 100 DM,Less than a year,1,male_married/widowed,none,1,real estate,23,none,rent,1,skilled employee,1,none,yes,good
+none,24,Delays in paying off,new car,2032,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,60,none,free,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,30,Existing credits paid back duly,furniture/equipment,6350,none,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,31,none,own,1,skilled employee,1,none,yes,good
+Equal or Greater than 200 DM,18,Existing credits paid back duly,furniture/equipment,2864,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,1,real estate,34,none,own,1,unskilled - resident,2,none,yes,good
+none,12,Critical account,new car,1255,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,61,none,own,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,24,Delays in paying off,new car,1333,Less than 100 DM,unemployed,4,male_single,none,2,real estate,43,none,free,2,skilled employee,2,none,yes,good
+none,24,Critical account,new car,2022,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,car or other,37,none,own,1,skilled employee,1,registered,yes,bad
+none,24,Existing credits paid back duly,radio/television,1552,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,1,car or other,32,bank,own,1,skilled employee,2,none,yes,bad
+Less than 0 DM,12,All credits taken paid back duly,radio/television,626,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,real estate,24,bank,own,1,unskilled - resident,1,none,yes,good
+none,48,Critical account,used car,8858,none,Btw 4 to 7 years,2,male_single,none,1,none,35,none,free,2,skilled employee,1,registered,yes,bad
+none,12,Critical account,repairs,996,none,Btw 4 to 7 years,4,female_divorced/separated/married,none,4,real estate,23,none,own,2,skilled employee,1,none,yes,bad
+none,6,All credits taken paid back duly,radio/television,1750,Btw 500 to 999 DM,Greater than 7 years,2,male_single,none,4,BSSA or life insurance,45,bank,own,1,unskilled - resident,2,none,yes,bad
+Less than 0 DM,48,Existing credits paid back duly,radio/television,6999,Less than 100 DM,Btw 4 to 7 years,1,male_married/widowed,guarantor,1,real estate,34,none,own,2,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,12,Critical account,new car,1995,Btw 100 to 499 DM,Less than a year,4,male_single,none,1,car or other,27,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,education,1199,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,4,BSSA or life insurance,67,none,own,2,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,1331,Less than 100 DM,Less than a year,2,male_single,none,1,car or other,22,stores,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,18,No credits taken,new car,2278,Btw 100 to 499 DM,Less than a year,3,female_divorced/separated/married,none,3,car or other,28,none,own,2,skilled employee,1,none,yes,good
+none,21,No credits taken,new car,5003,none,Btw 1 to 4 years,1,female_divorced/separated/married,none,4,BSSA or life insurance,29,bank,own,2,skilled employee,1,registered,yes,good
+Less than 0 DM,24,All credits taken paid back duly,furniture/equipment,3552,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,4,car or other,27,bank,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,18,Critical account,furniture/equipment,1928,Less than 100 DM,Less than a year,2,male_single,none,2,real estate,31,none,own,2,unskilled - resident,1,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,used car,2964,none,Greater than 7 years,4,male_single,none,4,none,49,bank,free,1,skilled employee,2,registered,yes,bad
+Less than 0 DM,24,All credits taken paid back duly,radio/television,1546,Less than 100 DM,Btw 4 to 7 years,4,male_single,guarantor,4,car or other,24,bank,rent,1,unskilled - resident,1,none,yes,good
+Equal or Greater than 200 DM,6,Delays in paying off,radio/television,683,Less than 100 DM,Less than a year,2,female_divorced/separated/married,none,1,BSSA or life insurance,29,bank,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,new car,12389,none,Btw 1 to 4 years,1,male_single,none,4,none,37,none,free,1,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,24,Delays in paying off,business,4712,none,Btw 1 to 4 years,4,male_single,none,2,BSSA or life insurance,37,bank,own,2,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,24,Delays in paying off,radio/television,1553,Btw 100 to 499 DM,Btw 4 to 7 years,3,female_divorced/separated/married,none,2,BSSA or life insurance,23,none,rent,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,new car,1372,Less than 100 DM,Btw 4 to 7 years,2,male_divorced/separated,none,3,car or other,36,none,own,1,skilled employee,1,none,yes,good
+none,24,Critical account,radio/television,2578,Equal or Greater than 1000 DM,Greater than 7 years,2,male_single,none,2,car or other,34,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,48,Existing credits paid back duly,radio/television,3979,none,Btw 4 to 7 years,4,male_single,none,1,car or other,41,none,own,2,skilled employee,2,registered,yes,bad
+Less than 0 DM,48,Existing credits paid back duly,radio/television,6758,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,2,car or other,31,none,own,1,skilled employee,1,registered,yes,good
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,3234,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,real estate,23,none,rent,1,unskilled - resident,1,registered,yes,good
+none,30,Critical account,radio/television,5954,Less than 100 DM,Btw 4 to 7 years,3,male_single,co-applicant,2,car or other,38,none,own,1,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,used car,5433,none,unemployed,2,female_divorced/separated/married,none,4,BSSA or life insurance,26,none,rent,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,15,Existing credits paid back duly,business,806,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,BSSA or life insurance,22,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,radio/television,1082,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,27,none,own,2,unskilled - resident,1,none,yes,bad
+none,15,Critical account,furniture/equipment,2788,Less than 100 DM,Btw 4 to 7 years,2,female_divorced/separated/married,co-applicant,3,car or other,24,bank,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,2930,Less than 100 DM,Btw 4 to 7 years,2,female_divorced/separated/married,none,1,real estate,27,none,own,1,skilled employee,1,none,yes,bad
+none,24,Critical account,education,1927,none,Btw 1 to 4 years,3,female_divorced/separated/married,none,2,car or other,33,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,36,Critical account,new car,2820,Less than 100 DM,Less than a year,4,male_divorced/separated,none,4,car or other,27,none,own,2,skilled employee,1,none,yes,good
+none,24,Existing credits paid back duly,retraining,937,Less than 100 DM,Less than a year,4,male_married/widowed,none,3,car or other,27,none,own,2,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,18,Critical account,new car,1056,Less than 100 DM,Greater than 7 years,3,male_single,guarantor,3,real estate,30,bank,own,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,12,Critical account,new car,3124,Less than 100 DM,Less than a year,1,male_single,none,3,real estate,49,bank,own,2,unskilled - resident,2,none,yes,bad
+none,9,Existing credits paid back duly,furniture/equipment,1388,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,real estate,26,none,rent,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,repairs,2384,Less than 100 DM,Less than a year,4,male_single,none,1,none,33,none,rent,1,unskilled - resident,1,none,yes,good
+none,12,Existing credits paid back duly,new car,2133,none,Greater than 7 years,4,female_divorced/separated/married,none,4,none,52,none,free,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,furniture/equipment,2039,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,4,real estate,20,bank,rent,1,skilled employee,1,none,yes,good
+Less than 0 DM,9,Critical account,new car,2799,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,36,none,rent,2,skilled employee,2,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,1289,Less than 100 DM,Btw 1 to 4 years,4,male_single,guarantor,1,BSSA or life insurance,21,none,own,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,domestic appliances,1217,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,3,real estate,47,none,own,1,unskilled - resident,1,registered,yes,good
+Less than 0 DM,12,Critical account,furniture/equipment,2246,Less than 100 DM,Greater than 7 years,3,male_single,none,3,BSSA or life insurance,60,none,own,2,skilled employee,1,none,yes,good
+Less than 0 DM,12,Critical account,radio/television,385,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,3,real estate,58,none,own,4,unskilled - resident,1,registered,yes,bad
+Btw 0 to 199 DM,24,Delays in paying off,new car,1965,none,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,car or other,42,none,rent,2,skilled employee,1,registered,yes,bad
+none,21,Existing credits paid back duly,business,1572,Equal or Greater than 1000 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,real estate,36,bank,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,new car,2718,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,4,BSSA or life insurance,20,none,rent,1,unskilled - resident,1,registered,yes,good
+Less than 0 DM,24,All credits taken paid back duly,others,1358,none,Greater than 7 years,4,male_single,none,3,car or other,40,stores,own,1,self-employed/management employee,1,registered,yes,good
+Btw 0 to 199 DM,6,All credits taken paid back duly,new car,931,Btw 100 to 499 DM,Less than a year,1,female_divorced/separated/married,none,1,BSSA or life insurance,32,stores,own,1,unskilled - resident,1,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,new car,1442,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,4,car or other,23,none,rent,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,24,No credits taken,business,4241,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,4,real estate,36,none,own,3,unskilled - resident,1,registered,yes,good
+none,18,Critical account,new car,2775,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,2,BSSA or life insurance,31,bank,own,2,skilled employee,1,none,yes,good
+none,24,Delays in paying off,business,3863,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,2,none,32,none,free,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,7,Existing credits paid back duly,radio/television,2329,Less than 100 DM,Less than a year,1,female_divorced/separated/married,guarantor,1,real estate,45,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,furniture/equipment,918,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,1,BSSA or life insurance,30,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,24,All credits taken paid back duly,education,1837,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,4,none,34,bank,free,1,unskilled - resident,1,none,yes,good
+none,36,Existing credits paid back duly,furniture/equipment,3349,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,car or other,28,none,own,1,self-employed/management employee,1,registered,yes,good
+Equal or Greater than 200 DM,10,Existing credits paid back duly,furniture/equipment,1275,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,2,BSSA or life insurance,23,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,24,All credits taken paid back duly,furniture/equipment,2828,Btw 500 to 999 DM,Btw 1 to 4 years,4,male_single,none,4,real estate,22,stores,own,1,skilled employee,1,registered,yes,bad
+none,24,Critical account,business,4526,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,real estate,74,none,own,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,radio/television,2671,Btw 100 to 499 DM,Btw 1 to 4 years,4,female_divorced/separated/married,co-applicant,4,none,50,none,free,1,skilled employee,1,none,yes,good
+none,18,Existing credits paid back duly,radio/television,2051,Less than 100 DM,Less than a year,4,male_single,none,1,real estate,33,none,own,1,skilled employee,1,none,yes,bad
+none,15,Existing credits paid back duly,used car,1300,none,Greater than 7 years,4,male_single,none,4,none,45,bank,free,1,skilled employee,2,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,domestic appliances,741,Btw 100 to 499 DM,unemployed,4,female_divorced/separated/married,none,3,BSSA or life insurance,22,none,own,1,skilled employee,1,none,yes,good
+Equal or Greater than 200 DM,10,Existing credits paid back duly,new car,1240,Btw 100 to 499 DM,Greater than 7 years,1,female_divorced/separated/married,none,4,none,48,none,free,1,unskilled - resident,2,none,yes,good
+Less than 0 DM,21,Existing credits paid back duly,radio/television,3357,Equal or Greater than 1000 DM,Less than a year,4,female_divorced/separated/married,none,2,car or other,29,bank,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,24,All credits taken paid back duly,used car,3632,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,guarantor,4,car or other,22,bank,rent,1,skilled employee,1,none,no,bad
+none,18,Delays in paying off,furniture/equipment,1808,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,1,real estate,22,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,48,No credits taken,business,12204,none,Btw 1 to 4 years,2,male_single,none,2,car or other,48,bank,own,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,60,Delays in paying off,radio/television,9157,none,Btw 1 to 4 years,2,male_single,none,2,none,27,none,free,1,self-employed/management employee,1,none,yes,bad
+Less than 0 DM,6,Critical account,new car,3676,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,3,real estate,37,none,rent,3,skilled employee,2,none,yes,bad
+Btw 0 to 199 DM,30,Existing credits paid back duly,furniture/equipment,3441,Btw 100 to 499 DM,Btw 1 to 4 years,2,female_divorced/separated/married,co-applicant,4,car or other,21,none,rent,1,skilled employee,1,none,yes,good
+none,12,Existing credits paid back duly,new car,640,Less than 100 DM,Btw 1 to 4 years,4,male_divorced/separated,none,2,real estate,49,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,21,Critical account,business,3652,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,3,BSSA or life insurance,27,none,own,2,skilled employee,1,none,yes,bad
+none,18,Critical account,new car,1530,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,BSSA or life insurance,32,bank,own,2,skilled employee,1,none,yes,good
+none,48,Existing credits paid back duly,business,3914,none,Btw 1 to 4 years,4,male_divorced/separated,none,2,real estate,38,bank,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,1858,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,car or other,22,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,radio/television,2600,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,none,65,none,free,2,skilled employee,1,none,yes,good
+none,15,Existing credits paid back duly,radio/television,1979,none,Greater than 7 years,4,male_single,none,2,car or other,35,none,own,1,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,6,Existing credits paid back duly,furniture/equipment,2116,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,41,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,9,All credits taken paid back duly,new car,1437,Btw 100 to 499 DM,Btw 4 to 7 years,2,male_single,none,3,none,29,none,own,1,skilled employee,1,none,yes,good
+none,42,Critical account,furniture/equipment,4042,Btw 500 to 999 DM,Btw 1 to 4 years,4,male_single,none,4,real estate,36,none,own,2,skilled employee,1,registered,yes,bad
+none,9,Existing credits paid back duly,education,3832,none,Greater than 7 years,1,male_single,none,4,real estate,64,none,own,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,radio/television,3660,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,4,car or other,28,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,18,All credits taken paid back duly,furniture/equipment,1553,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,3,car or other,44,bank,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,15,Existing credits paid back duly,radio/television,1444,none,Less than a year,4,male_single,none,1,BSSA or life insurance,23,none,own,1,skilled employee,1,none,yes,bad
+none,9,Existing credits paid back duly,furniture/equipment,1980,Less than 100 DM,Less than a year,2,female_divorced/separated/married,co-applicant,2,car or other,19,none,rent,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,24,Existing credits paid back duly,new car,1355,Less than 100 DM,Less than a year,3,female_divorced/separated/married,none,4,car or other,25,none,own,1,unskilled - resident,1,registered,yes,good
+none,12,Existing credits paid back duly,education,1393,Less than 100 DM,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,47,bank,own,3,skilled employee,2,registered,yes,bad
+none,24,Existing credits paid back duly,radio/television,1376,Btw 500 to 999 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,1,car or other,28,none,own,1,skilled employee,1,none,yes,bad
+none,60,Delays in paying off,radio/television,15653,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,4,car or other,21,none,own,2,skilled employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,radio/television,1493,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,3,car or other,34,none,own,1,skilled employee,2,none,yes,bad
+Less than 0 DM,42,Delays in paying off,radio/television,4370,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,2,BSSA or life insurance,26,bank,own,2,skilled employee,2,registered,yes,good
+Less than 0 DM,18,Existing credits paid back duly,education,750,Less than 100 DM,unemployed,4,female_divorced/separated/married,none,1,real estate,27,none,own,1,unemployed/unskilled - non-resident,1,none,yes,good
+Btw 0 to 199 DM,15,Existing credits paid back duly,repairs,1308,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,38,none,own,2,unskilled - resident,1,none,yes,bad
+none,15,Existing credits paid back duly,education,4623,Btw 100 to 499 DM,Btw 1 to 4 years,3,male_single,none,2,BSSA or life insurance,40,none,own,1,self-employed/management employee,1,registered,yes,good
+none,24,Critical account,radio/television,1851,Less than 100 DM,Btw 4 to 7 years,4,male_married/widowed,guarantor,2,car or other,33,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,18,Critical account,radio/television,1880,Less than 100 DM,Btw 4 to 7 years,4,male_married/widowed,none,1,BSSA or life insurance,32,none,own,2,self-employed/management employee,1,registered,yes,bad
+none,36,Delays in paying off,business,7980,none,Less than a year,4,male_single,none,4,car or other,27,none,rent,2,skilled employee,1,registered,yes,good
+Less than 0 DM,30,No credits taken,furniture/equipment,4583,Less than 100 DM,Btw 1 to 4 years,2,male_divorced/separated,guarantor,2,real estate,32,none,own,2,skilled employee,1,none,yes,bad
+none,12,Existing credits paid back duly,new car,1386,Btw 500 to 999 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,BSSA or life insurance,26,none,own,1,skilled employee,1,none,yes,good
+Equal or Greater than 200 DM,24,Existing credits paid back duly,new car,947,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,3,none,38,bank,free,1,skilled employee,2,none,yes,good
+Less than 0 DM,12,Existing credits paid back duly,education,684,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,car or other,40,none,rent,1,unskilled - resident,2,none,yes,good
+Less than 0 DM,48,Existing credits paid back duly,education,7476,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,1,none,50,none,free,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,furniture/equipment,1922,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,BSSA or life insurance,37,none,own,1,unskilled - resident,1,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,new car,2303,Less than 100 DM,Greater than 7 years,4,male_single,co-applicant,1,real estate,45,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,36,Delays in paying off,new car,8086,Btw 100 to 499 DM,Greater than 7 years,2,male_single,none,4,car or other,42,none,own,4,self-employed/management employee,1,registered,yes,good
+none,24,Critical account,used car,2346,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,3,car or other,35,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,14,Existing credits paid back duly,new car,3973,Less than 100 DM,unemployed,1,male_single,none,4,none,22,none,free,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,888,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,41,bank,own,1,unskilled - resident,2,none,yes,good
+none,48,Existing credits paid back duly,radio/television,10222,none,Btw 4 to 7 years,4,male_single,none,3,car or other,37,stores,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,30,No credits taken,business,4221,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,1,car or other,28,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,18,Critical account,furniture/equipment,6361,Less than 100 DM,Greater than 7 years,2,male_single,none,1,none,41,none,own,1,skilled employee,1,registered,yes,bad
+Equal or Greater than 200 DM,12,Existing credits paid back duly,radio/television,1297,Less than 100 DM,Btw 1 to 4 years,3,male_married/widowed,none,4,real estate,23,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,new car,900,none,Btw 1 to 4 years,4,male_married/widowed,none,2,car or other,23,none,own,1,skilled employee,1,none,yes,good
+none,21,Existing credits paid back duly,furniture/equipment,2241,Less than 100 DM,Greater than 7 years,4,male_single,none,2,real estate,50,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,6,Delays in paying off,furniture/equipment,1050,Less than 100 DM,unemployed,4,male_single,none,1,BSSA or life insurance,35,stores,own,2,self-employed/management employee,1,registered,yes,bad
+Equal or Greater than 200 DM,6,Critical account,education,1047,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,4,BSSA or life insurance,50,none,own,1,unskilled - resident,1,none,yes,bad
+none,24,Critical account,others,6314,Less than 100 DM,unemployed,4,male_single,co-applicant,2,none,27,bank,own,2,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,30,All credits taken paid back duly,furniture/equipment,3496,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,34,stores,own,1,skilled employee,2,registered,yes,bad
+none,48,All credits taken paid back duly,business,3609,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,1,real estate,27,stores,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Critical account,new car,4843,Less than 100 DM,Greater than 7 years,3,male_single,co-applicant,4,BSSA or life insurance,43,none,rent,2,skilled employee,1,registered,yes,good
+Equal or Greater than 200 DM,30,Critical account,radio/television,3017,Less than 100 DM,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,47,none,own,1,skilled employee,1,none,yes,bad
+none,24,Critical account,business,4139,Btw 100 to 499 DM,Btw 1 to 4 years,3,male_single,none,3,BSSA or life insurance,27,none,own,2,unskilled - resident,1,registered,yes,bad
+none,36,Existing credits paid back duly,business,5742,Btw 100 to 499 DM,Btw 4 to 7 years,2,male_single,none,2,car or other,31,none,own,2,skilled employee,1,registered,yes,bad
+none,60,Existing credits paid back duly,new car,10366,Less than 100 DM,Greater than 7 years,2,male_single,none,4,BSSA or life insurance,42,none,own,1,self-employed/management employee,1,registered,yes,bad
+none,6,Critical account,new car,2080,Btw 500 to 999 DM,Btw 1 to 4 years,1,male_married/widowed,none,2,car or other,24,none,own,1,skilled employee,1,none,yes,bad
+none,21,Delays in paying off,business,2580,Btw 500 to 999 DM,Less than a year,4,male_single,none,2,real estate,41,bank,own,1,unskilled - resident,2,none,yes,good
+none,30,Critical account,radio/television,4530,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,4,car or other,26,none,rent,1,self-employed/management employee,1,registered,yes,bad
+none,24,Critical account,furniture/equipment,5150,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,33,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,72,Existing credits paid back duly,radio/television,5595,Btw 100 to 499 DM,Btw 1 to 4 years,2,male_married/widowed,none,2,car or other,24,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,radio/television,2384,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,64,bank,rent,1,unskilled - resident,1,none,yes,bad
+none,18,Existing credits paid back duly,radio/television,1453,Less than 100 DM,Less than a year,3,female_divorced/separated/married,none,1,real estate,26,none,own,1,skilled employee,1,none,yes,bad
+none,6,Existing credits paid back duly,education,1538,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,2,none,56,none,own,1,skilled employee,1,none,yes,bad
+none,12,Existing credits paid back duly,radio/television,2279,none,Btw 1 to 4 years,4,male_single,none,4,none,37,none,free,1,skilled employee,1,registered,yes,bad
+none,15,Delays in paying off,radio/television,1478,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,3,real estate,33,bank,own,2,skilled employee,1,none,yes,bad
+none,24,Critical account,radio/television,5103,Less than 100 DM,Less than a year,3,male_married/widowed,none,3,none,47,none,free,3,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,36,Delays in paying off,business,9857,Btw 100 to 499 DM,Btw 4 to 7 years,1,male_single,none,3,BSSA or life insurance,31,none,own,2,unskilled - resident,2,registered,yes,bad
+none,60,Existing credits paid back duly,new car,6527,none,Btw 1 to 4 years,4,male_single,none,4,none,34,none,free,1,skilled employee,2,registered,yes,bad
+Equal or Greater than 200 DM,10,Critical account,radio/television,1347,none,Btw 4 to 7 years,4,male_single,none,2,BSSA or life insurance,27,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,36,Delays in paying off,new car,2862,Btw 100 to 499 DM,Greater than 7 years,4,male_single,none,3,none,30,none,free,1,skilled employee,1,none,yes,bad
+none,9,Existing credits paid back duly,radio/television,2753,Btw 100 to 499 DM,Greater than 7 years,3,male_single,co-applicant,4,car or other,35,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,new car,3651,Equal or Greater than 1000 DM,Btw 1 to 4 years,1,male_single,none,3,BSSA or life insurance,31,none,own,1,skilled employee,2,none,yes,bad
+Less than 0 DM,15,Critical account,furniture/equipment,975,Less than 100 DM,Btw 1 to 4 years,2,male_divorced/separated,none,3,BSSA or life insurance,25,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,15,Existing credits paid back duly,repairs,2631,Btw 100 to 499 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,2,real estate,25,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,radio/television,2896,Btw 100 to 499 DM,Less than a year,2,male_single,none,1,car or other,29,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,6,Critical account,new car,4716,none,Less than a year,1,male_single,none,3,real estate,44,none,own,2,unskilled - resident,2,none,yes,bad
+none,24,Existing credits paid back duly,radio/television,2284,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,2,car or other,28,none,own,1,skilled employee,1,registered,yes,bad
+none,6,Existing credits paid back duly,used car,1236,Btw 500 to 999 DM,Btw 1 to 4 years,2,male_single,none,4,BSSA or life insurance,50,none,rent,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,1103,Less than 100 DM,Btw 4 to 7 years,4,male_single,guarantor,3,real estate,29,none,own,2,skilled employee,1,none,no,bad
+none,12,Critical account,new car,926,Less than 100 DM,unemployed,1,female_divorced/separated/married,none,2,BSSA or life insurance,38,none,own,1,unemployed/unskilled - non-resident,1,none,yes,bad
+none,18,Critical account,radio/television,1800,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,24,none,own,2,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,15,Existing credits paid back duly,education,1905,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,40,none,rent,1,self-employed/management employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,furniture/equipment,1123,Btw 500 to 999 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,car or other,29,none,rent,1,unskilled - resident,1,none,yes,good
+Less than 0 DM,48,Critical account,used car,6331,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,46,none,free,2,skilled employee,1,registered,yes,good
+Equal or Greater than 200 DM,24,Existing credits paid back duly,radio/television,1377,Btw 100 to 499 DM,Greater than 7 years,4,female_divorced/separated/married,none,2,none,47,none,free,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,30,Delays in paying off,business,2503,Btw 100 to 499 DM,Greater than 7 years,4,male_single,none,2,BSSA or life insurance,41,stores,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,27,Existing credits paid back duly,business,2528,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,BSSA or life insurance,32,none,own,1,skilled employee,2,registered,yes,bad
+none,15,Existing credits paid back duly,new car,5324,Btw 500 to 999 DM,Greater than 7 years,1,female_divorced/separated/married,none,4,none,35,none,free,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,48,Existing credits paid back duly,new car,6560,Btw 100 to 499 DM,Btw 4 to 7 years,3,male_single,none,2,BSSA or life insurance,24,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,12,No credits taken,furniture/equipment,2969,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,3,BSSA or life insurance,25,none,rent,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,9,Existing credits paid back duly,radio/television,1206,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,real estate,25,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,radio/television,2118,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,37,none,own,1,unskilled - resident,2,none,yes,bad
+none,18,Critical account,radio/television,629,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,3,BSSA or life insurance,32,bank,own,2,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,6,All credits taken paid back duly,education,1198,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,none,35,none,free,1,skilled employee,1,none,yes,good
+none,21,Existing credits paid back duly,used car,2476,none,Greater than 7 years,4,male_single,none,4,real estate,46,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,9,Critical account,radio/television,1138,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,real estate,25,none,own,2,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,60,Existing credits paid back duly,new car,14027,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,2,none,27,none,own,1,self-employed/management employee,1,registered,yes,good
+none,30,Critical account,used car,7596,none,Greater than 7 years,1,male_single,none,4,car or other,63,none,own,2,skilled employee,1,none,yes,bad
+none,30,Critical account,radio/television,3077,none,Greater than 7 years,3,male_single,none,2,car or other,40,none,own,2,skilled employee,2,registered,yes,bad
+none,18,Existing credits paid back duly,radio/television,1505,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,none,32,none,free,1,self-employed/management employee,1,registered,yes,bad
+Equal or Greater than 200 DM,24,Critical account,radio/television,3148,none,Btw 1 to 4 years,3,male_single,none,2,car or other,31,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,20,No credits taken,used car,6148,Btw 100 to 499 DM,Greater than 7 years,3,male_married/widowed,none,4,car or other,31,bank,own,2,skilled employee,1,registered,yes,bad
+Equal or Greater than 200 DM,9,No credits taken,radio/television,1337,Less than 100 DM,Less than a year,4,male_single,none,2,car or other,34,none,own,2,self-employed/management employee,1,registered,yes,good
+Btw 0 to 199 DM,6,All credits taken paid back duly,education,433,Equal or Greater than 1000 DM,Less than a year,4,female_divorced/separated/married,none,2,BSSA or life insurance,24,bank,rent,1,skilled employee,2,none,yes,good
+Less than 0 DM,12,Existing credits paid back duly,new car,1228,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,real estate,24,none,own,1,unskilled - resident,1,none,yes,good
+Btw 0 to 199 DM,9,Existing credits paid back duly,radio/television,790,Btw 500 to 999 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,3,real estate,66,none,own,1,unskilled - resident,1,none,yes,bad
+none,27,Existing credits paid back duly,new car,2570,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,3,real estate,21,none,rent,1,skilled employee,1,none,yes,good
+none,6,Critical account,new car,250,Equal or Greater than 1000 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,real estate,41,bank,own,2,unskilled - resident,1,none,yes,bad
+none,15,Critical account,radio/television,1316,Btw 500 to 999 DM,Btw 1 to 4 years,2,male_married/widowed,none,2,BSSA or life insurance,47,none,own,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,radio/television,1882,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,car or other,25,bank,rent,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,48,All credits taken paid back duly,business,6416,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,3,none,59,none,rent,1,skilled employee,1,none,yes,good
+Equal or Greater than 200 DM,24,Critical account,business,1275,Equal or Greater than 1000 DM,Btw 1 to 4 years,2,male_divorced/separated,none,4,real estate,36,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,24,Delays in paying off,radio/television,6403,Less than 100 DM,Less than a year,1,male_single,none,2,car or other,33,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,radio/television,1987,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,4,real estate,21,none,rent,1,unskilled - resident,2,none,yes,good
+Btw 0 to 199 DM,8,Existing credits paid back duly,radio/television,760,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,guarantor,2,real estate,44,none,own,1,unskilled - resident,1,none,yes,bad
+none,24,Existing credits paid back duly,used car,2603,Equal or Greater than 1000 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,4,car or other,28,none,rent,1,skilled employee,1,registered,yes,bad
+none,4,Critical account,new car,3380,Less than 100 DM,Btw 4 to 7 years,1,female_divorced/separated/married,none,1,real estate,37,none,own,1,skilled employee,2,none,yes,bad
+Btw 0 to 199 DM,36,All credits taken paid back duly,domestic appliances,3990,none,Less than a year,3,female_divorced/separated/married,none,2,none,29,bank,own,1,unemployed/unskilled - non-resident,1,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,used car,11560,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,4,car or other,23,none,rent,2,self-employed/management employee,1,none,yes,good
+Less than 0 DM,18,Existing credits paid back duly,new car,4380,Btw 100 to 499 DM,Btw 1 to 4 years,3,male_single,none,4,car or other,35,none,own,1,unskilled - resident,2,registered,yes,bad
+none,6,Critical account,new car,6761,Less than 100 DM,Btw 4 to 7 years,1,male_single,none,3,none,45,none,own,2,self-employed/management employee,2,registered,yes,bad
+Btw 0 to 199 DM,30,No credits taken,business,4280,Btw 100 to 499 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,car or other,26,none,rent,2,unskilled - resident,1,none,yes,good
+Less than 0 DM,24,All credits taken paid back duly,new car,2325,Btw 100 to 499 DM,Btw 4 to 7 years,2,male_single,none,3,car or other,32,bank,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,10,All credits taken paid back duly,radio/television,1048,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,real estate,23,stores,own,1,unskilled - resident,1,none,yes,bad
+none,21,Existing credits paid back duly,radio/television,3160,none,Greater than 7 years,4,male_single,none,3,BSSA or life insurance,41,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,24,All credits taken paid back duly,furniture/equipment,2483,Btw 500 to 999 DM,Btw 1 to 4 years,4,male_single,none,4,real estate,22,stores,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,39,Critical account,furniture/equipment,14179,none,Btw 4 to 7 years,4,male_single,none,4,BSSA or life insurance,30,none,own,2,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,13,Critical account,business,1797,Less than 100 DM,Less than a year,3,male_single,none,1,BSSA or life insurance,28,bank,own,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,15,Existing credits paid back duly,new car,2511,Less than 100 DM,unemployed,1,female_divorced/separated/married,none,4,car or other,23,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,new car,1274,Less than 100 DM,Less than a year,3,female_divorced/separated/married,none,1,real estate,37,none,own,1,unskilled - resident,1,none,yes,good
+none,21,Existing credits paid back duly,used car,5248,none,Btw 1 to 4 years,1,male_single,none,3,car or other,26,none,own,1,skilled employee,1,none,yes,bad
+none,15,Existing credits paid back duly,used car,3029,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,2,car or other,33,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,6,Existing credits paid back duly,furniture/equipment,428,Less than 100 DM,Greater than 7 years,2,female_divorced/separated/married,none,1,BSSA or life insurance,49,bank,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,new car,976,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,2,car or other,23,none,own,1,unskilled - resident,1,none,yes,good
+Btw 0 to 199 DM,12,Existing credits paid back duly,business,841,Btw 100 to 499 DM,Btw 4 to 7 years,2,female_divorced/separated/married,none,4,real estate,23,none,rent,1,unskilled - resident,1,none,yes,bad
+none,30,Critical account,radio/television,5771,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,none,2,car or other,25,none,own,2,skilled employee,1,none,yes,bad
+none,12,Delays in paying off,repairs,1555,Equal or Greater than 1000 DM,Greater than 7 years,4,male_single,none,4,none,55,none,free,2,skilled employee,2,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,new car,1285,none,Btw 4 to 7 years,4,female_divorced/separated/married,none,4,none,32,none,rent,1,skilled employee,1,none,yes,good
+Equal or Greater than 200 DM,6,Critical account,new car,1299,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,1,real estate,74,none,own,3,unemployed/unskilled - non-resident,2,none,no,bad
+Equal or Greater than 200 DM,15,Critical account,radio/television,1271,none,Btw 1 to 4 years,3,male_single,none,4,none,39,none,free,2,skilled employee,1,registered,yes,good
+none,24,Existing credits paid back duly,new car,1393,Less than 100 DM,Btw 1 to 4 years,2,male_single,guarantor,2,real estate,31,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,12,Critical account,new car,691,Less than 100 DM,Greater than 7 years,4,male_single,none,3,BSSA or life insurance,35,none,own,2,skilled employee,1,none,yes,good
+none,15,Critical account,new car,5045,none,Greater than 7 years,1,female_divorced/separated/married,none,4,car or other,59,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,18,Critical account,furniture/equipment,2124,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,real estate,24,none,rent,2,skilled employee,1,none,yes,good
+Less than 0 DM,12,Existing credits paid back duly,radio/television,2214,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,3,BSSA or life insurance,24,none,own,1,unskilled - resident,1,none,yes,bad
+none,21,Critical account,new car,12680,none,Greater than 7 years,4,male_single,none,4,none,30,none,free,1,self-employed/management employee,1,registered,yes,good
+none,24,Critical account,new car,2463,Btw 100 to 499 DM,Btw 4 to 7 years,4,male_married/widowed,none,3,BSSA or life insurance,27,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,radio/television,1155,Less than 100 DM,Greater than 7 years,3,male_married/widowed,guarantor,3,real estate,40,bank,own,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,30,Existing credits paid back duly,furniture/equipment,3108,Less than 100 DM,Less than a year,2,male_divorced/separated,none,4,BSSA or life insurance,31,none,own,1,unskilled - resident,1,none,yes,good
+none,10,Existing credits paid back duly,used car,2901,none,Less than a year,1,female_divorced/separated/married,none,4,real estate,31,none,rent,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Critical account,furniture/equipment,3617,Less than 100 DM,Greater than 7 years,1,male_single,none,4,car or other,28,none,rent,3,skilled employee,1,registered,yes,bad
+none,12,Critical account,radio/television,1655,Less than 100 DM,Greater than 7 years,2,male_single,none,4,real estate,63,none,own,2,unskilled - resident,1,registered,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,used car,2812,none,Greater than 7 years,2,female_divorced/separated/married,none,4,real estate,26,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,36,Critical account,education,8065,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,2,none,25,none,own,2,self-employed/management employee,1,registered,yes,good
+none,21,Critical account,used car,3275,Less than 100 DM,Greater than 7 years,1,male_single,none,4,car or other,36,none,own,1,self-employed/management employee,1,registered,yes,bad
+none,24,Critical account,radio/television,2223,Btw 100 to 499 DM,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,52,bank,own,2,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,12,Critical account,new car,1480,Btw 500 to 999 DM,unemployed,2,male_single,none,4,none,66,bank,free,3,unemployed/unskilled - non-resident,1,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,new car,1371,none,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,real estate,25,none,rent,1,skilled employee,1,none,yes,good
+none,36,Critical account,new car,3535,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,4,car or other,37,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,radio/television,3509,Less than 100 DM,Btw 4 to 7 years,4,female_divorced/separated/married,guarantor,1,real estate,25,none,own,1,skilled employee,1,none,yes,bad
+none,36,Critical account,used car,5711,Equal or Greater than 1000 DM,Greater than 7 years,4,male_single,none,2,car or other,38,none,own,2,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,repairs,3872,Less than 100 DM,unemployed,2,female_divorced/separated/married,none,4,car or other,67,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,39,Critical account,radio/television,4933,Less than 100 DM,Btw 4 to 7 years,2,male_single,guarantor,2,real estate,25,none,own,2,skilled employee,1,none,yes,good
+none,24,Critical account,new car,1940,Equal or Greater than 1000 DM,Greater than 7 years,4,male_single,none,4,real estate,60,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,12,No credits taken,retraining,1410,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,31,none,own,1,unskilled - resident,1,registered,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,836,Btw 100 to 499 DM,Less than a year,4,female_divorced/separated/married,none,2,BSSA or life insurance,23,bank,own,1,unskilled - resident,1,none,yes,good
+Btw 0 to 199 DM,20,Existing credits paid back duly,used car,6468,none,unemployed,1,male_divorced/separated,none,4,real estate,60,none,own,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,18,Existing credits paid back duly,business,1941,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,male_single,none,2,BSSA or life insurance,35,none,own,1,unskilled - resident,1,registered,yes,bad
+none,22,Existing credits paid back duly,radio/television,2675,Btw 500 to 999 DM,Greater than 7 years,3,male_single,none,4,car or other,40,none,own,1,skilled employee,1,none,yes,bad
+none,48,Critical account,used car,2751,none,Greater than 7 years,4,male_single,none,3,car or other,38,none,own,2,skilled employee,2,registered,yes,bad
+Btw 0 to 199 DM,48,Delays in paying off,education,6224,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,50,none,free,1,skilled employee,1,none,yes,good
+Less than 0 DM,40,Critical account,education,5998,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,3,none,27,bank,own,1,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,21,Existing credits paid back duly,business,1188,Less than 100 DM,Greater than 7 years,2,female_divorced/separated/married,none,4,BSSA or life insurance,39,none,own,1,skilled employee,2,none,yes,good
+none,24,Existing credits paid back duly,used car,6313,none,Greater than 7 years,3,male_single,none,4,car or other,41,none,own,1,self-employed/management employee,2,registered,yes,bad
+none,6,Critical account,furniture/equipment,1221,none,Btw 1 to 4 years,1,male_married/widowed,none,2,BSSA or life insurance,27,none,own,2,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,24,Existing credits paid back duly,furniture/equipment,2892,Less than 100 DM,Greater than 7 years,3,male_divorced/separated,none,4,none,51,none,free,1,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,furniture/equipment,3062,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,3,none,32,none,rent,1,skilled employee,1,registered,yes,bad
+none,9,Existing credits paid back duly,furniture/equipment,2301,Btw 100 to 499 DM,Less than a year,2,female_divorced/separated/married,none,4,BSSA or life insurance,22,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,used car,7511,none,Greater than 7 years,1,male_single,none,4,BSSA or life insurance,51,none,free,1,skilled employee,2,registered,yes,good
+none,12,Critical account,furniture/equipment,1258,Less than 100 DM,Less than a year,2,female_divorced/separated/married,none,4,BSSA or life insurance,22,none,rent,2,unskilled - resident,1,none,yes,bad
+none,24,Delays in paying off,new car,717,none,Greater than 7 years,4,male_married/widowed,none,4,car or other,54,none,own,2,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,new car,1549,none,Less than a year,4,male_single,none,2,real estate,35,none,own,1,unemployed/unskilled - non-resident,1,none,yes,bad
+none,24,Critical account,education,1597,Less than 100 DM,Greater than 7 years,4,male_single,none,4,none,54,none,free,2,skilled employee,2,none,yes,bad
+Btw 0 to 199 DM,18,Critical account,radio/television,1795,Less than 100 DM,Greater than 7 years,3,female_divorced/separated/married,guarantor,4,real estate,48,bank,rent,2,unskilled - resident,1,registered,yes,bad
+Less than 0 DM,20,Critical account,furniture/equipment,4272,Less than 100 DM,Greater than 7 years,1,female_divorced/separated/married,none,4,BSSA or life insurance,24,none,own,2,skilled employee,1,none,yes,bad
+none,12,Critical account,radio/television,976,none,Greater than 7 years,4,male_single,none,4,car or other,35,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,7472,none,unemployed,1,female_divorced/separated/married,none,2,real estate,24,none,rent,1,unemployed/unskilled - non-resident,1,none,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,new car,9271,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,1,car or other,24,none,own,1,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,6,Existing credits paid back duly,radio/television,590,Less than 100 DM,Less than a year,3,male_married/widowed,none,3,real estate,26,none,own,1,unskilled - resident,1,none,no,bad
+none,12,Critical account,radio/television,930,none,Greater than 7 years,4,male_single,none,4,real estate,65,none,own,4,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,42,All credits taken paid back duly,used car,9283,Less than 100 DM,unemployed,1,male_single,none,2,none,55,bank,free,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,15,No credits taken,new car,1778,Less than 100 DM,Less than a year,2,female_divorced/separated/married,none,1,real estate,26,none,rent,2,unemployed/unskilled - non-resident,1,none,yes,good
+Btw 0 to 199 DM,8,Existing credits paid back duly,business,907,Less than 100 DM,Less than a year,3,male_married/widowed,none,2,real estate,26,none,own,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,6,Existing credits paid back duly,radio/television,484,Less than 100 DM,Btw 4 to 7 years,3,male_married/widowed,guarantor,3,real estate,28,bank,own,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,36,Critical account,used car,9629,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,4,car or other,24,none,own,2,skilled employee,1,registered,yes,good
+Less than 0 DM,48,Existing credits paid back duly,domestic appliances,3051,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,4,car or other,54,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,48,Existing credits paid back duly,new car,3931,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,4,none,46,none,free,1,skilled employee,2,none,yes,good
+Btw 0 to 199 DM,36,Delays in paying off,new car,7432,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,2,BSSA or life insurance,54,none,rent,1,skilled employee,1,none,yes,bad
+none,6,Existing credits paid back duly,domestic appliances,1338,Btw 500 to 999 DM,Btw 1 to 4 years,1,male_divorced/separated,none,4,real estate,62,none,own,1,skilled employee,1,none,yes,bad
+none,6,Critical account,radio/television,1554,Less than 100 DM,Btw 4 to 7 years,1,female_divorced/separated/married,none,2,car or other,24,none,rent,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,others,15857,Less than 100 DM,unemployed,2,male_divorced/separated,co-applicant,3,car or other,43,none,own,1,self-employed/management employee,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,radio/television,1345,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,3,real estate,26,bank,own,1,skilled employee,1,none,yes,good
+none,12,Existing credits paid back duly,new car,1101,Less than 100 DM,Btw 1 to 4 years,3,male_married/widowed,none,2,real estate,27,none,own,2,skilled employee,1,registered,yes,bad
+Equal or Greater than 200 DM,12,Existing credits paid back duly,radio/television,3016,Less than 100 DM,Btw 1 to 4 years,3,male_married/widowed,none,1,car or other,24,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,furniture/equipment,2712,Less than 100 DM,Greater than 7 years,2,male_single,none,2,BSSA or life insurance,41,bank,own,1,skilled employee,2,none,yes,good
+Less than 0 DM,8,Critical account,new car,731,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,47,none,own,2,unskilled - resident,1,none,yes,bad
+none,18,Critical account,furniture/equipment,3780,Less than 100 DM,Less than a year,3,male_divorced/separated,none,2,car or other,35,none,own,2,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,21,Critical account,new car,1602,Less than 100 DM,Greater than 7 years,4,male_married/widowed,none,3,car or other,30,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,18,Critical account,new car,3966,Less than 100 DM,Greater than 7 years,1,female_divorced/separated/married,none,4,real estate,33,bank,rent,3,skilled employee,1,registered,yes,good
+none,18,No credits taken,business,4165,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,36,stores,own,2,skilled employee,2,none,yes,good
+Less than 0 DM,36,Existing credits paid back duly,used car,8335,none,Greater than 7 years,3,male_single,none,4,none,47,none,free,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,48,Delays in paying off,business,6681,none,Btw 1 to 4 years,4,male_single,none,4,none,38,none,free,1,skilled employee,2,registered,yes,bad
+none,24,Delays in paying off,business,2375,Btw 500 to 999 DM,Btw 1 to 4 years,4,male_single,none,2,car or other,44,none,own,2,skilled employee,2,registered,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,new car,1216,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,3,car or other,23,none,rent,1,skilled employee,1,registered,yes,good
+Less than 0 DM,45,No credits taken,business,11816,Less than 100 DM,Greater than 7 years,2,male_single,none,4,car or other,29,none,rent,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,24,Existing credits paid back duly,radio/television,5084,none,Greater than 7 years,2,female_divorced/separated/married,none,4,car or other,42,none,own,1,skilled employee,1,registered,yes,bad
+Equal or Greater than 200 DM,15,Existing credits paid back duly,radio/television,2327,Less than 100 DM,Less than a year,2,female_divorced/separated/married,none,3,real estate,25,none,own,1,unskilled - resident,1,none,yes,good
+Less than 0 DM,12,No credits taken,new car,1082,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,car or other,48,bank,own,2,skilled employee,1,none,yes,good
+none,12,Existing credits paid back duly,radio/television,886,none,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,car or other,21,none,own,1,skilled employee,1,none,yes,bad
+none,4,Existing credits paid back duly,furniture/equipment,601,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,3,real estate,23,none,rent,1,unskilled - resident,2,none,yes,bad
+Less than 0 DM,24,Critical account,used car,2957,Less than 100 DM,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,63,none,own,2,skilled employee,1,registered,yes,bad
+none,24,Critical account,radio/television,2611,Less than 100 DM,Greater than 7 years,4,male_married/widowed,co-applicant,3,real estate,46,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,furniture/equipment,5179,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,2,BSSA or life insurance,29,none,own,1,skilled employee,1,none,yes,good
+none,21,Delays in paying off,used car,2993,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,real estate,28,stores,own,2,unskilled - resident,1,none,yes,bad
+none,18,Existing credits paid back duly,repairs,1943,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,real estate,23,none,own,1,skilled employee,1,none,yes,good
+none,24,All credits taken paid back duly,business,1559,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,4,car or other,50,bank,own,1,skilled employee,1,registered,yes,bad
+none,18,Existing credits paid back duly,furniture/equipment,3422,Less than 100 DM,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,47,bank,own,3,skilled employee,2,registered,yes,bad
+Btw 0 to 199 DM,21,Existing credits paid back duly,furniture/equipment,3976,none,Btw 4 to 7 years,2,male_single,none,3,car or other,35,none,own,1,skilled employee,1,registered,yes,bad
+none,18,Existing credits paid back duly,new car,6761,none,Btw 1 to 4 years,2,male_single,none,4,car or other,68,none,rent,2,skilled employee,1,none,yes,good
+none,24,Existing credits paid back duly,new car,1249,Less than 100 DM,Less than a year,4,male_married/widowed,none,2,real estate,28,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,9,Existing credits paid back duly,radio/television,1364,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,4,real estate,59,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,radio/television,709,Less than 100 DM,Greater than 7 years,4,male_single,none,4,real estate,57,stores,own,1,unskilled - resident,1,none,yes,good
+Less than 0 DM,20,Critical account,new car,2235,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,guarantor,2,BSSA or life insurance,33,bank,rent,2,skilled employee,1,none,no,good
+none,24,Critical account,used car,4042,none,Btw 4 to 7 years,3,male_single,none,4,BSSA or life insurance,43,none,own,2,skilled employee,1,registered,yes,bad
+none,15,Critical account,radio/television,1471,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,none,35,none,free,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,18,All credits taken paid back duly,new car,1442,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,4,none,32,none,free,2,unskilled - resident,2,none,yes,good
+none,36,Delays in paying off,new car,10875,Less than 100 DM,Greater than 7 years,2,male_single,none,2,car or other,45,none,own,2,skilled employee,2,registered,yes,bad
+none,24,Existing credits paid back duly,new car,1474,Btw 100 to 499 DM,Less than a year,4,male_married/widowed,none,3,real estate,33,none,own,1,skilled employee,1,registered,yes,bad
+none,10,Existing credits paid back duly,retraining,894,none,Btw 4 to 7 years,4,female_divorced/separated/married,none,3,BSSA or life insurance,40,none,own,1,skilled employee,1,registered,yes,bad
+none,15,Critical account,furniture/equipment,3343,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,none,28,none,free,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,15,Existing credits paid back duly,new car,3959,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,2,BSSA or life insurance,29,none,own,1,skilled employee,1,registered,yes,good
+none,9,Existing credits paid back duly,new car,3577,Btw 100 to 499 DM,Btw 1 to 4 years,1,male_single,guarantor,2,real estate,26,none,rent,1,skilled employee,2,none,no,bad
+none,24,Critical account,used car,5804,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,male_single,none,2,real estate,27,none,own,2,skilled employee,1,none,yes,bad
+none,18,Delays in paying off,business,2169,Less than 100 DM,Btw 1 to 4 years,4,male_married/widowed,none,2,car or other,28,none,own,1,skilled employee,1,registered,yes,good
+Less than 0 DM,24,Existing credits paid back duly,radio/television,2439,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,real estate,35,none,own,1,skilled employee,1,registered,yes,good
+none,27,Critical account,furniture/equipment,4526,Equal or Greater than 1000 DM,Less than a year,4,male_single,none,2,real estate,32,stores,own,2,unskilled - resident,2,registered,yes,bad
+none,10,Existing credits paid back duly,furniture/equipment,2210,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,25,bank,rent,1,unskilled - resident,1,none,yes,good
+none,15,Existing credits paid back duly,furniture/equipment,2221,Btw 500 to 999 DM,Btw 1 to 4 years,2,female_divorced/separated/married,none,4,car or other,20,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,radio/television,2389,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,1,car or other,27,stores,own,1,skilled employee,1,none,yes,bad
+none,12,Critical account,furniture/equipment,3331,Less than 100 DM,Greater than 7 years,2,male_single,none,4,BSSA or life insurance,42,stores,own,1,skilled employee,1,none,yes,bad
+none,36,Existing credits paid back duly,business,7409,none,Greater than 7 years,3,male_single,none,2,BSSA or life insurance,37,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,652,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,BSSA or life insurance,24,none,rent,1,skilled employee,1,none,yes,bad
+none,36,Delays in paying off,furniture/equipment,7678,Btw 500 to 999 DM,Btw 4 to 7 years,2,female_divorced/separated/married,none,4,car or other,40,none,own,2,skilled employee,1,registered,yes,bad
+Equal or Greater than 200 DM,6,Critical account,new car,1343,Less than 100 DM,Greater than 7 years,1,male_single,none,4,real estate,46,none,own,2,skilled employee,2,none,no,bad
+Less than 0 DM,24,Critical account,business,1382,Btw 100 to 499 DM,Btw 4 to 7 years,4,male_single,none,1,real estate,26,none,own,2,skilled employee,1,registered,yes,bad
+none,15,Existing credits paid back duly,domestic appliances,874,none,Less than a year,4,female_divorced/separated/married,none,1,real estate,24,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,furniture/equipment,3590,Less than 100 DM,Btw 1 to 4 years,2,male_single,co-applicant,2,BSSA or life insurance,29,none,own,1,unskilled - resident,2,none,yes,bad
+Btw 0 to 199 DM,11,Critical account,new car,1322,Equal or Greater than 1000 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,car or other,40,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,18,All credits taken paid back duly,radio/television,1940,Less than 100 DM,Less than a year,3,male_single,co-applicant,4,none,36,bank,free,1,self-employed/management employee,1,registered,yes,bad
+none,36,Existing credits paid back duly,radio/television,3595,Less than 100 DM,Greater than 7 years,4,male_single,none,2,car or other,28,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,9,Existing credits paid back duly,new car,1422,Less than 100 DM,Less than a year,3,male_single,none,2,none,27,none,free,1,self-employed/management employee,1,registered,yes,good
+none,30,Critical account,radio/television,6742,none,Btw 4 to 7 years,2,male_single,none,3,BSSA or life insurance,36,none,own,2,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,used car,7814,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,3,car or other,38,none,own,1,self-employed/management employee,1,registered,yes,bad
+none,24,Existing credits paid back duly,used car,9277,none,Btw 1 to 4 years,2,male_divorced/separated,none,4,none,48,none,free,1,skilled employee,1,registered,yes,bad
+Btw 0 to 199 DM,30,Critical account,new car,2181,none,Greater than 7 years,4,male_single,none,4,real estate,36,none,own,2,skilled employee,1,none,yes,bad
+none,18,Critical account,radio/television,1098,Less than 100 DM,unemployed,4,female_divorced/separated/married,none,4,car or other,65,none,own,2,unemployed/unskilled - non-resident,1,none,yes,bad
+Btw 0 to 199 DM,24,Existing credits paid back duly,furniture/equipment,4057,Less than 100 DM,Btw 4 to 7 years,3,male_divorced/separated,none,3,car or other,43,none,own,1,skilled employee,1,registered,yes,good
+Less than 0 DM,12,Existing credits paid back duly,education,795,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,BSSA or life insurance,53,none,own,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,24,Critical account,business,2825,none,Btw 4 to 7 years,4,male_single,none,3,none,34,none,own,2,skilled employee,2,registered,yes,bad
+Btw 0 to 199 DM,48,Existing credits paid back duly,business,15672,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,car or other,23,none,own,1,skilled employee,1,registered,yes,good
+none,36,Critical account,new car,6614,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,34,none,own,2,self-employed/management employee,1,registered,yes,bad
+none,28,All credits taken paid back duly,used car,7824,none,Less than a year,3,male_single,guarantor,4,real estate,40,bank,rent,2,skilled employee,2,registered,yes,bad
+Less than 0 DM,27,Critical account,business,2442,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,43,stores,own,4,self-employed/management employee,2,registered,yes,bad
+none,15,Critical account,radio/television,1829,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,46,none,own,2,skilled employee,1,registered,yes,bad
+Less than 0 DM,12,Critical account,new car,2171,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,BSSA or life insurance,38,bank,own,2,unskilled - resident,1,none,no,bad
+Btw 0 to 199 DM,36,Critical account,used car,5800,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,4,car or other,34,none,own,2,skilled employee,1,registered,yes,bad
+none,18,Critical account,radio/television,1169,none,Btw 1 to 4 years,4,male_single,none,3,BSSA or life insurance,29,none,own,2,skilled employee,1,registered,yes,bad
+none,36,Delays in paying off,used car,8947,none,Btw 4 to 7 years,3,male_single,none,2,car or other,31,stores,own,1,self-employed/management employee,2,registered,yes,bad
+Less than 0 DM,21,Existing credits paid back duly,radio/television,2606,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,BSSA or life insurance,28,none,rent,1,self-employed/management employee,1,registered,yes,bad
+none,12,Critical account,furniture/equipment,1592,Equal or Greater than 1000 DM,Btw 4 to 7 years,3,female_divorced/separated/married,none,2,BSSA or life insurance,35,none,own,1,skilled employee,1,none,no,bad
+none,15,Existing credits paid back duly,furniture/equipment,2186,none,Btw 4 to 7 years,1,female_divorced/separated/married,none,4,real estate,33,bank,rent,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,furniture/equipment,4153,Less than 100 DM,Btw 1 to 4 years,2,male_single,co-applicant,3,car or other,42,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,16,Critical account,new car,2625,Less than 100 DM,Greater than 7 years,2,male_single,guarantor,4,BSSA or life insurance,43,bank,rent,1,skilled employee,1,registered,yes,good
+none,20,Critical account,new car,3485,none,Less than a year,2,male_divorced/separated,none,4,real estate,44,none,own,2,skilled employee,1,registered,yes,bad
+none,36,Critical account,used car,10477,none,Greater than 7 years,2,male_single,none,4,none,42,none,free,2,skilled employee,1,none,yes,bad
+none,15,Existing credits paid back duly,radio/television,1386,none,Btw 1 to 4 years,4,male_married/widowed,none,2,real estate,40,none,rent,1,skilled employee,1,registered,yes,bad
+none,24,Existing credits paid back duly,radio/television,1278,Less than 100 DM,Greater than 7 years,4,male_single,none,1,real estate,36,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,radio/television,1107,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,real estate,20,none,rent,1,self-employed/management employee,2,registered,yes,bad
+Less than 0 DM,21,Existing credits paid back duly,new car,3763,none,Btw 4 to 7 years,2,male_single,co-applicant,2,real estate,24,none,own,1,unskilled - resident,1,none,no,bad
+Btw 0 to 199 DM,36,Existing credits paid back duly,education,3711,none,Btw 1 to 4 years,2,male_married/widowed,none,2,car or other,27,none,own,1,skilled employee,1,none,yes,bad
+none,15,Delays in paying off,used car,3594,Less than 100 DM,Less than a year,1,female_divorced/separated/married,none,2,BSSA or life insurance,46,none,own,2,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,new car,3195,none,Btw 1 to 4 years,1,female_divorced/separated/married,none,2,real estate,33,none,own,1,unskilled - resident,1,none,yes,bad
+none,36,Delays in paying off,radio/television,4454,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,4,real estate,34,none,own,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,24,Critical account,furniture/equipment,4736,Less than 100 DM,Less than a year,2,female_divorced/separated/married,none,4,car or other,25,bank,own,1,unskilled - resident,1,none,yes,good
+Btw 0 to 199 DM,30,Existing credits paid back duly,radio/television,2991,none,Greater than 7 years,2,female_divorced/separated/married,none,4,car or other,25,none,own,1,skilled employee,1,none,yes,bad
+none,11,Existing credits paid back duly,business,2142,Equal or Greater than 1000 DM,Greater than 7 years,1,male_divorced/separated,none,2,real estate,28,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,24,All credits taken paid back duly,business,3161,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,BSSA or life insurance,31,none,rent,1,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,48,No credits taken,others,18424,Less than 100 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,2,BSSA or life insurance,32,bank,own,1,self-employed/management employee,1,registered,no,good
+none,10,Existing credits paid back duly,used car,2848,Btw 100 to 499 DM,Btw 1 to 4 years,1,male_single,co-applicant,2,real estate,32,none,own,1,skilled employee,2,none,yes,bad
+Less than 0 DM,6,Existing credits paid back duly,new car,14896,Less than 100 DM,Greater than 7 years,1,male_single,none,4,none,68,bank,own,1,self-employed/management employee,1,registered,yes,good
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,2359,Btw 100 to 499 DM,unemployed,1,male_divorced/separated,none,1,BSSA or life insurance,33,none,own,1,skilled employee,1,none,yes,good
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,3345,Less than 100 DM,Greater than 7 years,4,male_single,none,2,BSSA or life insurance,39,none,rent,1,self-employed/management employee,1,registered,yes,good
+none,18,Critical account,furniture/equipment,1817,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,none,28,none,own,2,skilled employee,1,none,yes,bad
+none,48,Delays in paying off,radio/television,12749,Btw 500 to 999 DM,Btw 4 to 7 years,4,male_single,none,1,car or other,37,none,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,9,Existing credits paid back duly,radio/television,1366,Less than 100 DM,Less than a year,3,female_divorced/separated/married,none,4,BSSA or life insurance,22,none,rent,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,12,Existing credits paid back duly,new car,2002,Less than 100 DM,Btw 4 to 7 years,3,male_single,none,4,BSSA or life insurance,30,none,rent,1,skilled employee,2,registered,yes,bad
+Less than 0 DM,24,All credits taken paid back duly,furniture/equipment,6872,Less than 100 DM,Less than a year,2,male_divorced/separated,none,1,BSSA or life insurance,55,bank,own,1,skilled employee,1,registered,yes,good
+Less than 0 DM,12,All credits taken paid back duly,new car,697,Less than 100 DM,Less than a year,4,male_single,none,2,car or other,46,bank,own,2,skilled employee,1,registered,yes,good
+Less than 0 DM,18,Critical account,furniture/equipment,1049,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,4,BSSA or life insurance,21,none,rent,1,skilled employee,1,none,yes,bad
+Less than 0 DM,48,Existing credits paid back duly,used car,10297,Less than 100 DM,Btw 4 to 7 years,4,male_single,none,4,none,39,stores,free,3,skilled employee,2,registered,yes,good
+none,30,Existing credits paid back duly,radio/television,1867,none,Greater than 7 years,4,male_single,none,4,car or other,58,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,12,Delays in paying off,new car,1344,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,2,real estate,43,none,own,2,unskilled - resident,2,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,furniture/equipment,1747,Less than 100 DM,Less than a year,4,male_single,co-applicant,1,BSSA or life insurance,24,none,own,1,unskilled - resident,1,none,no,bad
+Btw 0 to 199 DM,9,Existing credits paid back duly,radio/television,1670,Less than 100 DM,Less than a year,4,female_divorced/separated/married,none,2,car or other,22,none,own,1,skilled employee,1,registered,yes,good
+none,9,Critical account,new car,1224,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,1,real estate,30,none,own,2,skilled employee,1,none,yes,bad
+none,12,Critical account,radio/television,522,Btw 500 to 999 DM,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,42,none,own,2,skilled employee,2,registered,yes,bad
+Less than 0 DM,12,Existing credits paid back duly,radio/television,1498,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,1,car or other,23,bank,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,30,Delays in paying off,radio/television,1919,Btw 100 to 499 DM,Less than a year,4,male_single,none,3,none,30,stores,own,2,self-employed/management employee,1,none,yes,good
+Equal or Greater than 200 DM,9,Existing credits paid back duly,radio/television,745,Less than 100 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,2,real estate,28,none,own,1,unskilled - resident,1,none,yes,good
+Btw 0 to 199 DM,6,Existing credits paid back duly,radio/television,2063,Less than 100 DM,Less than a year,4,male_married/widowed,none,3,car or other,30,none,rent,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,60,Existing credits paid back duly,education,6288,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,none,42,none,free,1,skilled employee,1,none,yes,good
+none,24,Critical account,used car,6842,none,Btw 1 to 4 years,2,male_single,none,4,BSSA or life insurance,46,none,own,2,self-employed/management employee,2,registered,yes,bad
+none,12,Existing credits paid back duly,new car,3527,none,Less than a year,2,male_single,none,3,BSSA or life insurance,45,none,own,1,self-employed/management employee,2,registered,yes,bad
+none,10,Existing credits paid back duly,new car,1546,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,real estate,31,none,own,1,unskilled - resident,2,none,no,bad
+none,24,Existing credits paid back duly,furniture/equipment,929,none,Btw 4 to 7 years,4,male_single,none,2,car or other,31,stores,own,1,skilled employee,1,registered,yes,bad
+none,4,Critical account,new car,1455,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,1,real estate,42,none,own,3,unskilled - resident,2,none,yes,bad
+Less than 0 DM,15,Existing credits paid back duly,furniture/equipment,1845,Less than 100 DM,Less than a year,4,female_divorced/separated/married,guarantor,1,BSSA or life insurance,46,none,rent,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,48,No credits taken,new car,8358,Btw 500 to 999 DM,Less than a year,1,female_divorced/separated/married,none,1,car or other,30,none,own,2,skilled employee,1,none,yes,bad
+Less than 0 DM,24,All credits taken paid back duly,furniture/equipment,3349,Btw 500 to 999 DM,Less than a year,4,male_single,none,4,none,30,none,free,1,skilled employee,2,registered,yes,good
+none,12,Existing credits paid back duly,new car,2859,none,unemployed,4,male_single,none,4,none,38,none,own,1,self-employed/management employee,1,registered,yes,bad
+none,18,Existing credits paid back duly,furniture/equipment,1533,Less than 100 DM,Less than a year,4,male_married/widowed,co-applicant,1,BSSA or life insurance,43,none,own,1,unskilled - resident,2,none,yes,good
+none,24,Existing credits paid back duly,radio/television,3621,Btw 100 to 499 DM,Greater than 7 years,2,male_single,none,4,car or other,31,none,own,2,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,18,Critical account,business,3590,Less than 100 DM,unemployed,3,male_married/widowed,none,3,car or other,40,none,own,3,unemployed/unskilled - non-resident,2,registered,yes,bad
+Less than 0 DM,36,Delays in paying off,business,2145,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,1,car or other,24,none,own,2,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,24,Existing credits paid back duly,used car,4113,Btw 500 to 999 DM,Less than a year,3,female_divorced/separated/married,none,4,car or other,28,none,rent,1,skilled employee,1,none,yes,good
+none,36,Existing credits paid back duly,furniture/equipment,10974,Less than 100 DM,unemployed,4,female_divorced/separated/married,none,2,car or other,26,none,own,2,self-employed/management employee,1,registered,yes,good
+Less than 0 DM,12,Existing credits paid back duly,new car,1893,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,guarantor,4,BSSA or life insurance,29,none,own,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,24,Critical account,radio/television,1231,Equal or Greater than 1000 DM,Greater than 7 years,4,female_divorced/separated/married,none,4,BSSA or life insurance,57,none,rent,2,self-employed/management employee,1,registered,yes,bad
+Equal or Greater than 200 DM,30,Critical account,radio/television,3656,none,Greater than 7 years,4,male_single,none,4,BSSA or life insurance,49,stores,own,2,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,9,Critical account,radio/television,1154,Less than 100 DM,Greater than 7 years,2,male_single,none,4,real estate,37,none,own,3,unskilled - resident,1,none,yes,bad
+Less than 0 DM,28,Existing credits paid back duly,new car,4006,Less than 100 DM,Btw 1 to 4 years,3,male_single,none,2,car or other,45,none,own,1,unskilled - resident,1,none,yes,good
+Btw 0 to 199 DM,24,Existing credits paid back duly,furniture/equipment,3069,Btw 100 to 499 DM,Greater than 7 years,4,male_single,none,4,none,30,none,free,1,skilled employee,1,none,yes,bad
+none,6,Critical account,radio/television,1740,Less than 100 DM,Greater than 7 years,2,male_married/widowed,none,2,real estate,30,none,rent,2,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,21,Delays in paying off,new car,2353,Less than 100 DM,Btw 1 to 4 years,1,male_divorced/separated,none,4,BSSA or life insurance,47,none,own,2,skilled employee,1,none,yes,bad
+none,15,Existing credits paid back duly,new car,3556,none,Btw 1 to 4 years,3,male_single,none,2,none,29,none,own,1,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,radio/television,2397,Btw 500 to 999 DM,Greater than 7 years,3,male_single,none,2,car or other,35,bank,own,2,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,6,Existing credits paid back duly,repairs,454,Less than 100 DM,Less than a year,3,male_married/widowed,none,1,BSSA or life insurance,22,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,30,Existing credits paid back duly,radio/television,1715,none,Btw 1 to 4 years,4,female_divorced/separated/married,none,1,car or other,26,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,27,Critical account,radio/television,2520,Btw 500 to 999 DM,Btw 1 to 4 years,4,male_single,none,2,BSSA or life insurance,23,none,own,2,unskilled - resident,1,none,yes,good
+none,15,Existing credits paid back duly,radio/television,3568,Less than 100 DM,Greater than 7 years,4,female_divorced/separated/married,none,2,car or other,54,bank,rent,1,self-employed/management employee,1,registered,yes,bad
+none,42,Existing credits paid back duly,radio/television,7166,none,Btw 4 to 7 years,2,male_married/widowed,none,4,BSSA or life insurance,29,none,rent,1,skilled employee,1,registered,yes,bad
+Less than 0 DM,11,Critical account,new car,3939,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,2,real estate,40,none,own,2,unskilled - resident,2,none,yes,bad
+Btw 0 to 199 DM,15,Existing credits paid back duly,repairs,1514,Btw 100 to 499 DM,Btw 1 to 4 years,4,male_single,guarantor,2,real estate,22,none,own,1,skilled employee,1,none,yes,bad
+none,24,Existing credits paid back duly,new car,7393,Less than 100 DM,Btw 1 to 4 years,1,male_single,none,4,BSSA or life insurance,43,none,own,1,unskilled - resident,2,none,yes,bad
+Less than 0 DM,24,All credits taken paid back duly,new car,1193,Less than 100 DM,unemployed,1,female_divorced/separated/married,co-applicant,4,none,29,none,rent,2,unemployed/unskilled - non-resident,1,none,yes,good
+Less than 0 DM,60,Existing credits paid back duly,business,7297,Less than 100 DM,Greater than 7 years,4,male_single,co-applicant,4,none,36,none,rent,1,skilled employee,1,none,yes,good
+none,30,Critical account,radio/television,2831,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,2,car or other,33,none,own,1,skilled employee,1,registered,yes,bad
+Equal or Greater than 200 DM,24,Existing credits paid back duly,radio/television,1258,Btw 500 to 999 DM,Btw 1 to 4 years,3,female_divorced/separated/married,none,3,car or other,57,none,own,1,unskilled - resident,1,none,yes,bad
+Btw 0 to 199 DM,6,Existing credits paid back duly,radio/television,753,Less than 100 DM,Btw 1 to 4 years,2,female_divorced/separated/married,guarantor,3,real estate,64,none,own,1,skilled employee,1,none,yes,bad
+Btw 0 to 199 DM,18,Delays in paying off,business,2427,none,Greater than 7 years,4,male_single,none,2,BSSA or life insurance,42,none,own,2,skilled employee,1,none,yes,bad
+none,24,Delays in paying off,new car,2538,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,47,none,own,2,unskilled - resident,2,none,yes,good
+Btw 0 to 199 DM,15,All credits taken paid back duly,new car,1264,Btw 100 to 499 DM,Btw 1 to 4 years,2,male_married/widowed,none,2,BSSA or life insurance,25,none,rent,1,skilled employee,1,none,yes,good
+Btw 0 to 199 DM,30,Critical account,furniture/equipment,8386,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,2,BSSA or life insurance,49,none,own,1,skilled employee,1,none,yes,good
+none,48,Existing credits paid back duly,business,4844,Less than 100 DM,unemployed,3,male_single,none,2,car or other,33,bank,rent,1,self-employed/management employee,1,registered,yes,good
+Equal or Greater than 200 DM,21,Existing credits paid back duly,new car,2923,Btw 100 to 499 DM,Btw 1 to 4 years,1,female_divorced/separated/married,none,1,car or other,28,bank,own,1,self-employed/management employee,1,registered,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,used car,8229,Less than 100 DM,Btw 1 to 4 years,2,male_single,none,2,BSSA or life insurance,26,none,own,1,skilled employee,2,none,yes,good
+none,24,Critical account,furniture/equipment,2028,Less than 100 DM,Btw 4 to 7 years,2,male_single,none,2,BSSA or life insurance,30,none,own,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,15,Critical account,furniture/equipment,1433,Less than 100 DM,Btw 1 to 4 years,4,female_divorced/separated/married,none,3,BSSA or life insurance,25,none,rent,2,skilled employee,1,none,yes,bad
+Equal or Greater than 200 DM,42,No credits taken,business,6289,Less than 100 DM,Less than a year,2,male_divorced/separated,none,1,BSSA or life insurance,33,none,own,2,skilled employee,1,none,yes,bad
+none,13,Existing credits paid back duly,radio/television,1409,Btw 100 to 499 DM,unemployed,2,female_divorced/separated/married,none,4,real estate,64,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,24,Existing credits paid back duly,used car,6579,Less than 100 DM,unemployed,4,male_single,none,2,none,29,none,free,1,self-employed/management employee,1,registered,yes,bad
+Btw 0 to 199 DM,24,Critical account,radio/television,1743,Less than 100 DM,Greater than 7 years,4,male_single,none,2,BSSA or life insurance,48,none,own,2,unskilled - resident,1,none,yes,bad
+none,12,Critical account,education,3565,none,Less than a year,2,male_single,none,1,BSSA or life insurance,37,none,own,2,unskilled - resident,2,none,yes,bad
+none,15,All credits taken paid back duly,radio/television,1569,Btw 100 to 499 DM,Greater than 7 years,4,male_single,none,4,car or other,34,bank,own,1,unskilled - resident,2,none,yes,bad
+Less than 0 DM,18,Existing credits paid back duly,radio/television,1936,none,Btw 4 to 7 years,2,male_married/widowed,none,4,car or other,23,none,rent,2,unskilled - resident,1,none,yes,bad
+Less than 0 DM,36,Existing credits paid back duly,furniture/equipment,3959,Less than 100 DM,unemployed,4,male_single,none,3,BSSA or life insurance,30,none,own,1,self-employed/management employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,new car,2390,none,Greater than 7 years,4,male_single,none,3,car or other,50,none,own,1,skilled employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,furniture/equipment,1736,Less than 100 DM,Btw 4 to 7 years,3,female_divorced/separated/married,none,4,real estate,31,none,own,1,unskilled - resident,1,none,yes,bad
+Less than 0 DM,30,Existing credits paid back duly,used car,3857,Less than 100 DM,Btw 1 to 4 years,4,male_divorced/separated,none,4,BSSA or life insurance,40,none,own,1,self-employed/management employee,1,registered,yes,bad
+none,12,Existing credits paid back duly,radio/television,804,Less than 100 DM,Greater than 7 years,4,male_single,none,4,car or other,38,none,own,1,skilled employee,1,none,yes,bad
+Less than 0 DM,45,Existing credits paid back duly,radio/television,1845,Less than 100 DM,Btw 1 to 4 years,4,male_single,none,4,none,23,none,free,1,skilled employee,1,registered,yes,good
+Btw 0 to 199 DM,45,Critical account,used car,4576,Btw 100 to 499 DM,unemployed,3,male_single,none,4,car or other,27,none,own,1,skilled employee,1,none,yes,bad
