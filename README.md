@@ -1,6 +1,6 @@
 # **ML_Pipeline_Classification_Clustering**
 
-This project demonstrates the machine learning pipeline for Classification and Clustering using Pycaret 3.0 and Scikit Learn on Jupyter Notebook. The data used in this project is the `German Credit Data` dataset.
+This project demonstrates the machine learning pipeline for Classification using Pycaret 3.0 and Scikit Learn on Jupyter Notebook. The data used in this project is the `German Credit Data` dataset.
 
 ## **Overview** :bulb:
 This project showcases the use of Scikit learn as well as Pycaret 3.0, a low-code machine learning library, to perform Classification and Clustering analysis on the  `German Credit Data` dataset. The project includes a Jupyter Notebook containing the code for building and evaluating the machine learning models.
@@ -30,12 +30,13 @@ To run the project, download the `notebook` files in Jupyter Notebook and execut
 
 Each notebook contains the following sections:
 
-- Data Preparation: This section loads the dataset and performs data cleaning, preprocessing, and feature engineering.
-- Classification Analysis: This section builds and evaluates machine learning models for classification analysis using Pycaret 3.0 and SciKit Learn.
-- Clustering Analysis: This section builds and evaluates machine learning models for clustering analysis using Pycaret 3.0 and SciKit Learn.
+- Data Preparation: This section loads the dataset and performs data cleaning.
+- PC_Classification: This section builds and evaluates machine learning models for classification analysis using Pycaret 3.0.
+- Scikit Learn Classification: This section builds and evaluates machine learning models for classification analysis using SciKit Learn. 
+-
 
 ## **Conclusion** :bulb:
-This project demonstrates the use of Pycaret 3.0 and SciKit Learn.for building and evaluating machine learning models for Classification, and Clustering analysis. The code and techniques used in this project can be adapted to other datasets and machine learning problems.
+This project demonstrates the use of Pycaret 3.0 and SciKit Learn.for building and evaluating machine learning models for Classification analysis. The code and techniques used in this project can be adapted to other datasets and machine learning problems.
 
 ## **License** :bulb:
 This is licensed under _MIT_ License
